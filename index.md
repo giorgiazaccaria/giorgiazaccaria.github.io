@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="100" src="https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/blob/main/Zaccaria_Foto_GH.jpg">
-</p>
+<h1 align="center">
+  ![](https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/blob/main/Zaccaria_Foto_GH.jpg")
+</h1>
 
 <h1 align="center">Giorgia Zaccaria</h1>
 
