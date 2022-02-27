@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/blob/main/Zaccaria_Foto_GH.jpg">
+  <img width="100" src="https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/blob/main/Zaccaria_Foto_GH.jpg" alt="Giorgia Zaccaria">
 </p>
 
 
