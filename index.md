@@ -1,6 +1,6 @@
-  <p class="aligncentering">
-  <img src="Zaccaria_Foto_GH.jpg" style="width:200px;"/>
-  </p>
+
+  <img src="Zaccaria_Foto_GH.jpg" style="width:200px;" align="middle"/>
+
 
 
 </html>
