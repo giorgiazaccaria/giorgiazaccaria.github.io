@@ -1,5 +1,5 @@
 
-<img src="https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/blob/main/Zaccaria_Foto_GH.jpg" width="48">
+<img src="https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/blob/main/Zaccaria_Foto_GH.jpg" width="80">
 
 ### Markdown
 
