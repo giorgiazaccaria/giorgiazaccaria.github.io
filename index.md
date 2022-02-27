@@ -1,6 +1,6 @@
-  <h1><align=center>
+  <p class="aligncentering">
   <img src="Zaccaria_Foto_GH.jpg" style="width:200px;"/>
-  </h1>
+  </p>
 
 
 </html>
