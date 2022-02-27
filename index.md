@@ -1,6 +1,4 @@
-<h1 align="center">
   ![](Zaccaria_Foto_GH.jpg)
-</h1>
 
 <h1 align="center">Giorgia Zaccaria</h1>
 
