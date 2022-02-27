@@ -1,4 +1,5 @@
-  img[alt=Zaccaria_Foto_GH.jpg] { width: 200px; }
+  <img src="Zaccaria_Foto_GH.jpg" style="width:200px;"/>
+
 
 social_links:
     twitter: jekyllrb
