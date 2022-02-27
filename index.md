@@ -1,6 +1,6 @@
 ## Giorgia Zaccaria
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](Zaccaria_Foto_GH.jpg)
 
 ### Markdown
 
