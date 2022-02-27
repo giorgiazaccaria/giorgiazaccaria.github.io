@@ -1,4 +1,4 @@
-  ![](Zaccaria_Foto_GH.jpg)
+  ![](Zaccaria_Foto_GH.jpg |width=100)
 
 social_links:
     twitter: jekyllrb
