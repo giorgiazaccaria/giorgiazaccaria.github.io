@@ -1,4 +1,8 @@
 title: Giorgia Zaccaria
 theme: Minima
 
+ social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    
 - about.md
