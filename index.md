@@ -1,5 +1,5 @@
 
-![This is an image](Zaccaria_Foto_GH.jpg=250x250))
+![](Zaccaria_Foto_GH.jpg =250x250)
 
 ### Markdown
 
