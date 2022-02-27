@@ -1,5 +1,5 @@
 
-![][[Zaccaria_Foto_GH.jpg \| height=48px]]
+![](Zaccaria_Foto_GH.jpg)
 
 ### Markdown
 
