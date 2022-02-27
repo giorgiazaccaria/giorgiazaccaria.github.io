@@ -1,5 +1,5 @@
 ---
 layout: page
-title: ZContact
+title: Contact
 permalink: /contact/
 ---
