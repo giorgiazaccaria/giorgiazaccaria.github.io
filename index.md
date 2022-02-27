@@ -1,4 +1,4 @@
-  <img src="Zaccaria_Foto_GH.jpg" style="width:200px; float: right" float="align"/>
+  <img src="Zaccaria_Foto_GH.jpg" widht="80" style="float: right;"/>
 
 
 
