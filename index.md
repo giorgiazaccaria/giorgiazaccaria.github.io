@@ -3,7 +3,7 @@
 
 
 
-<a href="https://github.com/{{ giorgiazaccaria}}"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ giorgiazaccaria }}</span></a>
+<a href="https://github.com/{{ giorgiazaccaria}}"><span class="icon icon--github">{% include github.png %}</span><span class="username">{{ giorgiazaccaria }}</span></a>
 
     
     plugins:
