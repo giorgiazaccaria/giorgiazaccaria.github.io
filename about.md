@@ -8,4 +8,4 @@ permalink: /aboutme/
 
 I am a **Postdoctoral Researcher** at University of Rome Unitelma Sapienza, Rome, Italy.
 
-You can find my cv <a href="https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/blob/main/Zaccaria_Curriculum_Vitae_En%20(23).pdf" target="_blank"><ins>here</ins>.</a>
+You can find my cv <a href="https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/Zaccaria_Curriculum_Vitae_En%20(23).pdf" target="_blank"><ins>here</ins>.</a>
