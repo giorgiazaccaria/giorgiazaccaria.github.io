@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### Referred journal articles
+## Referred journal articles
 1.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
    Gaussian mixture model with an extended ultrametric covariance structure. \
    _Advances in Data Analysis and Classification_, doi:10.1007/s11634-021-00488-x. \
@@ -15,13 +15,13 @@ permalink: /publications/
    _Advances in Data Analysis and Classification_, 14(4), 837-853.\
    [Link](https://link.springer.com/article/10.1007/s11634-020-00400-z)
    
-### Articles in edited volumes
+## Articles in edited volumes
 1. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
   Exploring hierarchical concepts: theoretical and application comparisons. \
   T. Imaizumi, A. Nakayama, S. Yokoyama, S. (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_, vol. 5 (pp.   315-328). Springer, Singapore. \
  [Link](https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19)
  
- ### Referred conference articles
+## Referred conference articles
 1. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2022) \
  An ultrametric model to build a Composite Indicators system. \
  R. Lombardo, I. Camminatiello, V. Simonacci (Eds.), _Book of Short papers, 10th International Conference IES 2022 Innovation & Society 5.0: Statistical and Economic Methodologies for Quality Assessment, Department of Economics, University of Campania “L. Vanvitelli”, January 27th - 28th 2022_ (pp. 208-211). Sesto San Giovanni: PKE - Professional Knowledge Empowerment s.r.l. \
