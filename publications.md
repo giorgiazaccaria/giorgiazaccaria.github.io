@@ -5,4 +5,4 @@ permalink: /publications/
 ---
 
 ### Articles
-- [ ] Mercury
+- [X] Mercury
