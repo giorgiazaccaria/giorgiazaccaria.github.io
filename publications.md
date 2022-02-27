@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-In progress
+### Articles
