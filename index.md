@@ -1,5 +1,6 @@
+  <h1><align=center>
   <img src="Zaccaria_Foto_GH.jpg" style="width:200px;"/>
-
+  </h1>
 
 
 </html>
