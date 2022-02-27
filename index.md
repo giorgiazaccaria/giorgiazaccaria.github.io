@@ -1,4 +1,3 @@
-## Giorgia Zaccaria
 
 ![This is an image](Zaccaria_Foto_GH.jpg)
 
