@@ -1,5 +1,5 @@
 
-  <img src="Zaccaria_Foto_GH.jpg" style="width:200px;" align="middle"/>
+  <img src="ZacGithub.jpg" style="width:200px;" align="middle"/>
 
 
 <a href="https://scholar.google.it/citations?hl=it&authuser=1&user=svSITAkAAAAJ"><span class="icon icon--scholar">{% include scholar.jpg %}</span><span class="username">{{ giorgiazaccaria }}</span></a>
