@@ -43,7 +43,7 @@ permalink: /publications/
  A. Pollice, N. Salvati, F. Schirripa Spagnolo (Eds.)_Book of Short Papers SIS 2020_ (pp. 372-377). Pearson. \
  ISBN: 978-88-9191-077-6.
 6. Cavicchia, C., Vichi, M., Zaccaria, G. (2019) \ 
-**Dimensionality reduction via hierarchical factorial structure.**
+**Dimensionality reduction via hierarchical factorial structure.** \
 G. C. Porzio, F. Greselin, S. Balzano (Eds.), _Book of Short Papers, CLADAG 2019, 11-13 September 2019, Cassino_ (pp. 116-119). Cassino: Centro Editoriale di Ateneo Università di Cassino e del Lazio Meridionale. \
 ISBN: 978-88-8317-108-6.
 7. Cavicchia, C., Vichi, M., Zaccaria, G. (2019) \
