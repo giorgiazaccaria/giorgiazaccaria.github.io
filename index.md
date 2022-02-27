@@ -1,9 +1,22 @@
   ![](Zaccaria_Foto_GH.jpg)
 
-<h1 align="center">Giorgia Zaccaria</h1>
-
-
-### Giorgia Zaccaria
+social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
