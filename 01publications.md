@@ -39,7 +39,7 @@ permalink: /publications/
  C. Perna, N. Salvati, F. Schirripa Spagnolo (Eds.), _Book of Short Papers SIS 2021_ (pp. 1319-1324). Pearson. \
  ISBN:  978-88-9192-736-1
 5. Zaccaria, G., Vichi, M. (2020) \
- **Exploring drug consumption via an ultrametric correlation matrix.** \ 
+ **Exploring drug consumption via an ultrametric correlation matrix.** \
  A. Pollice, N. Salvati, F. Schirripa Spagnolo (Eds.)_Book of Short Papers SIS 2020_ (pp. 372-377). Pearson. \
  ISBN: 978-88-9191-077-6.
 6. Cavicchia, C., Vichi, M., Zaccaria, G. (2019) \
