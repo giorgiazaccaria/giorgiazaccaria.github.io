@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
- <img src="unitelma.png" style="width:400px">
+ <img src="unitelma.png">
 
 **Email**   
  giorgia.zaccaria@unitelmasapienza.it 
