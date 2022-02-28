@@ -7,8 +7,6 @@
  </p>
   
 
- <h2>News</h2>
- <p>Lorem Ipsum</p>
  
 
 
