@@ -37,7 +37,7 @@ permalink: /publications/
 4. Cavicchia, C., Vichi, M., Zaccaria, G. (2021) \
  **The ultrametric covariance model for modelling teachers’ job satisfaction.** \
  C. Perna, N. Salvati, F. Schirripa Spagnolo (Eds.), _Book of Short Papers SIS 2021_ (pp. 1319-1324). Pearson. \
- ISBN:  978-88-9192-736-1
+ ISBN:  978-88-9192-736-1.
 5. Zaccaria, G., Vichi, M. (2020) \
  **Exploring drug consumption via an ultrametric correlation matrix.** \
  A. Pollice, N. Salvati, F. Schirripa Spagnolo (Eds.)_Book of Short Papers SIS 2020_ (pp. 372-377). Pearson. \
@@ -49,7 +49,7 @@ ISBN: 978-88-8317-108-6.
 7. Cavicchia, C., Vichi, M., Zaccaria, G. (2019) \
  **A new hierarchical model-based composite indicator on climate change.** \
  M. Bini, P. Amenta, A. D'Ambra, I. Camminatiello (Eds.), _Statistical Methods for Service Quality Evaluation, Book of Short Papers of IES 2019 in Rome, Italy, 4-5 July_ (pp. 346-349). Cuzzolin. \
- ISBN: 978-88-86638-65-4.
+ISBN: 978-88-86638-65-4.
 8. Cavicchia, C., Vichi, M., Zaccaria, G. (2019) \
 **Hierarchical Clustering and Dimensionality Reduction for Big Data.** \
 G. Arbia, S. Peluso, A. Pini, G. Rivellini (Eds.), _Smart Statistics for Smart Applications, Book of Short Papers SIS 2019_ (pp. 173-180). Pearson. \
