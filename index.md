@@ -5,7 +5,7 @@
   <img src="ZacGithub.jpg" style="width:1000px;" align="middle">
   
   <h1 align="center">Giorgia Zaccaria</h1>
-  <h3 align="center">Postdoctoral Researcher in Statistics</h3>
+  <h3 align="center">Research Fellow in Statistics</h3>
   <h3 align="center">University of Rome Unitelma Sapienza</h3>
 
 ## News
