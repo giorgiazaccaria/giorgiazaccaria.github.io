@@ -1,5 +1,5 @@
 
-  <img src="ZacGithub.jpg" style="width:800px;" align="middle"/> 
+  <img src="ZacGithub.jpg" style="width:1000px;" align="middle"/> 
   
 
 Hi, welcome to my webpage!
