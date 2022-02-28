@@ -28,7 +28,7 @@ permalink: /publications/
  ISBN: 978-88-94593-35-8.
 2. Cavicchia, C., Vichi, M., Zaccaria, G. (2021) \
   **A parsimonious parameterization of a nonnegative correlation matrix.** \
-  S. Ingrassia, A. Punzo, R. Rocci (Eds.), _MBC2 2020 Book of Short Papers of the 5th International Workshop on Models and Learning for Clustering and Classification, Catania_ (pp. 21-26). Milano: Le Editioni. \
+  S. Ingrassia, A. Punzo, R. Rocci (Eds.), _MBC2 2020 Book of Short Papers of the 5th International Workshop on Models and Learning for Clustering and Classification, Catania_ (pp. 21-26). Milano: Le Edizioni. \
   ISBN: 978-88-5526-539-3.
 3. Cavicchia, C., Vichi, M., Zaccaria, G. (2021) \
  **Model-based clustering with parsimonious covariance structure.** \
