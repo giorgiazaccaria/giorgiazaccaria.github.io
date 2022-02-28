@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-**Email** \  
+**Email**   
  giorgia.zaccaria@unitelmasapienza.it 
 
 **Address** \
