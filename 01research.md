@@ -4,8 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-My research interests are:
+My work is mainly focused on latent variables models and mixture models. Specifically, my research interests are:
+- ultrametric models;
 - dimensionality reduction;
-- hirarchical models;
+- hierarchical models;
 - model-based clustering;
 - model-based composite indicators.
