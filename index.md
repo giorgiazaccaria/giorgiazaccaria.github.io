@@ -10,7 +10,7 @@
 
 ## News
 **Feb 2022**
-- **New paper!** - Our paper with <li><a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a></li> and Maurizio Vichi entitled _Gaussian mixture model with an extended ultrametric covariance structure_ has been published in _Advances in Data Analysis and Classification_. Click on the [link](https://link.springer.com/article/10.1007/s11634-021-00488-x) to read it!
+- **New paper!** - Our paper with <a href="https://carlocavicchia.github.io" target="external">Carlo Cavicchia</a>and Maurizio Vichi entitled _Gaussian mixture model with an extended ultrametric covariance structure_ has been published in _Advances in Data Analysis and Classification_. Click on the [link](https://link.springer.com/article/10.1007/s11634-021-00488-x) to read it!
 
 
 
