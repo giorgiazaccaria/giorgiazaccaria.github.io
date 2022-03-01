@@ -12,7 +12,7 @@ Specifically, my research interests are:
 - model-based clustering;
 - model-based composite indicators.
 
-### Ongoing project
+### Ongoing projects
 - **Hierarchical Disjoint principal component analysis** \
  with Carlo Cavicchia and Maurizio Vichi \
 _Revision requested_
