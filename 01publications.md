@@ -8,18 +8,18 @@ permalink: /publications/
 1.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
    **Gaussian mixture model with an extended ultrametric covariance structure.** \
    _Advances in Data Analysis and Classification_, doi:10.1007/s11634-021-00488-x. \
-   [Link](https://link.springer.com/article/10.1007/s11634-021-00488-x)
+   <a href="https://link.springer.com/article/10.1007/s11634-021-00488-x" target="_blank">Link</a>
    
 2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
    **The ultrametric correlation matrix for modelling hierarchical latent concepts.** \
    _Advances in Data Analysis and Classification_, 14(4), 837-853.\
-   [Link](https://link.springer.com/article/10.1007/s11634-020-00400-z)
+   <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a>
    
 #### Articles in edited volumes
 1. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
   **Exploring hierarchical concepts: theoretical and application comparisons.** \
   T. Imaizumi, A. Nakayama, S. Yokoyama, S. (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_, vol. 5 (pp.   315-328). Springer, Singapore. \
- [Link](https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19)
+ <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a> 
  
 #### Referred conference articles
 1. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2022) \
