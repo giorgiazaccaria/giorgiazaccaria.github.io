@@ -18,15 +18,15 @@ Specifically, my research interests are:
 _Revision requested_
 
 - **An ultrametric model to build a composite indicator system** \
-with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi \
+with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi 
 
 - **Ultrametric Factor Analysis** \
-with Carlo Cavicchia and Maurizio Vichi \
+with Carlo Cavicchia and Maurizio Vichi 
 
 - **An ultrametric model for building a composite indicator system to study climate change in European countries** \
 with Pasquale Sarnacchiaro
 
-- **Stepwise Approach for Evaluating Covariate Effects on Mixture Multigroup Factor Analysis**
+- **Stepwise Approach for Evaluating Covariate Effects on Mixture Multigroup Factor Analysis** \
 with Jeroen Vermunt and Kim De Roover
 
 
