@@ -6,10 +6,10 @@ permalink: /contact/
 ![](unitelma.png)
 
 **Email**   
- giorgia.zaccaria@unitelmasapienza.it 
+ <a href="mailto:giorgia.zaccaria@unitelmasapienza.it" target="_blank">giorgia.zaccaria@unitelmasapienza.it </a>
 
 **Address** \
  Room 8, First Floor \
  Department of Law and Economics \
- University of Rome Unitelma Sapienza \
+  <a href="https://www.unitelmasapienza.it/it" target="_blank">University of Rome Unitelma Sapienza </a> \
  Piazza Sassari, 4, 00161, Rome, Italy 
