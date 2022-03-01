@@ -8,14 +8,6 @@ I am a **Research Fellow** at University of Rome Unitelma Sapienza, Rome, Italy.
 
 You can find my full CV <a href="https://drive.google.com/file/d/1FwxZzO3xtbupkDIqsjlFDVKBh_DUS9-M/view?usp=sharing" target="_blank"><ins>here</ins>.</a>
 
-### Research
-My research interests are:
-- dimensionality reduction;
-- hirarchical models;
-- model-based clustering;
-- model-based composite indicators.
-
-
 ### Education 
 **Nov 2018 - Feb 2022** \
 _Ph.D. in Methodological Statistics_, University of Rome La Sapienza, Italy. \
