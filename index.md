@@ -6,7 +6,7 @@
   
   <h1 align="center">Giorgia Zaccaria</h1>
   <h3 align="center">Research Fellow in Statistics</h3>
-  <h3 align="center">University of Rome Unitelma Sapienza</h3>
+  <h3 align="center"><a href="https://www.unitelmasapienza.it/it" target="_blank">University of Rome Unitelma Sapienza</a></h3>
 
 ## News
 **Feb 2022**
