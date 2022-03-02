@@ -4,15 +4,15 @@
  
   <img src="ZacGithub.jpg" style="width:1000px;" align="middle">
   
+  <h1 align="center">Giorgia Zaccaria</h1>
+  <h3 align="center">Research Fellow in Statistics</h3>
+  <h3 align="center"><a href="https://www.unitelmasapienza.it/it" target="_blank">University of Rome Unitelma Sapienza</a></h3>
+  
   <h1 align="center"> <a href="mailto:giorgia.zaccaria@unitelmasapienza.it" target="_blank"><img src="email.jpg" style="width:40px;"></a> 
   <a href="https://scholar.google.it/citations?user=svSITAkAAAAJ&hl=it" target="_blank"><img src="scholar.png" style="width:40px;"></a>
   <a href="https://www.researchgate.net/profile/Giorgia-Zaccaria" target="_blank"><img src="RG.jpg" style="width:40px;"></a>
   <a href="https://www.linkedin.com/in/giorgia-zaccaria-2b7329174/" target="_blank"><img src="Linkedin.jpg" style="width:40px;"></a>
   </h1>
-  
-  <h1 align="center">Giorgia Zaccaria</h1>
-  <h3 align="center">Research Fellow in Statistics</h3>
-  <h3 align="center"><a href="https://www.unitelmasapienza.it/it" target="_blank">University of Rome Unitelma Sapienza</a></h3>
   
 ## News
 **Feb 2022**
