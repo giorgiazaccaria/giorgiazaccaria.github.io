@@ -6,7 +6,7 @@ permalink: /aboutme/
 
 I am a **Research Fellow** at University of Rome Unitelma Sapienza, Rome, Italy.
 
-You can find my full CV <a href="https://giorgiazaccaria.github.io/Zaccaria_Curriculum_Vitae_En.pdf" target="_blank"><ins>here</ins>.</a>
+You can find my full CV <a href="https://giorgiazaccaria/giorgiazaccaria.github.io/Zaccaria_Curriculum_Vitae_En.pdf" target="_blank"><ins>here</ins>.</a>
 
 ### Education 
 **Nov 2018 - Feb 2022** \
