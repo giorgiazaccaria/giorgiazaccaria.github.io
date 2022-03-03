@@ -7,6 +7,7 @@
    <h1 align="center"> <a href="mailto:giorgia.zaccaria@unitelmasapienza.it" target="_blank"><img src="email.jpg" style="width:40px;"></a> 
   <a href="https://scholar.google.it/citations?user=svSITAkAAAAJ&hl=it" target="_blank"><img src="scholar.png" style="width:40px;"></a>
   <a href="https://www.researchgate.net/profile/Giorgia-Zaccaria" target="_blank"><img src="RG.jpg" style="width:40px;"></a>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0001-9119-9104" target="_blank"><img src="orcid.png" style="width:40px;"></a>
   <a href="https://www.linkedin.com/in/giorgia-zaccaria-2b7329174/" target="_blank"><img src="Linkedin.jpg" style="width:40px;"></a>
   </h1>
   
