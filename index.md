@@ -19,7 +19,7 @@
   
 ## News
 **Mar 2022**
-- **CESS 2022** - I am glad to announce the [call for abstracts](https://cess2022.dss.uniroma1.it/event/3/abstracts/) of the [**Conference of European Statistics Stakeholders 2022**](https://cess2022.dss.uniroma1.it/event/3/) as member of the Local Organizing Committee. The conference will be held at the Department of Statistical Sciences of Sapienza University of Rome on October 20-21, 2022. \
+- **CESS 2022** - I am glad to announce the <a href="https://cess2022.dss.uniroma1.it/event/3/abstracts/" target="_blank">call for abstracts</a> of the <a href="https://cess2022.dss.uniroma1.it/event/3/" target="_blank">**Conference of European Statistics Stakeholders 2022**</a> as member of the Local Organizing Committee. The conference will be held at the Department of Statistical Sciences of Sapienza University of Rome on October 20-21, 2022. \
 Registration is open and **no registration fee is required**. I hope to see you at the conference!
 
 **Feb 2022**
