@@ -18,6 +18,10 @@
 
   
 ## News
+**Mar 2022**
+- **CESS 2022** - I am glad to announce the [call for abstracts](https://cess2022.dss.uniroma1.it/event/3/abstracts/) of the [**Conference of European Statistics Stakeholders 2022**](https://cess2022.dss.uniroma1.it/event/3/) as member of the Local Organizing Committee. The conference will be held at the Department of Statistical Sciences of Sapienza University of Rome on October 20-21, 2022. \
+Registration is open and **no registration fee is required**. I hope to see you at the conference!
+
 **Feb 2022**
 - **New paper!** - Our paper with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Gaussian mixture model with an extended ultrametric covariance structure_ has been published in _Advances in Data Analysis and Classification_. Click on the <a href="https://link.springer.com/article/10.1007/s11634-021-00488-x" target="_blank">link</a> to read it!
 
