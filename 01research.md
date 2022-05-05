@@ -18,7 +18,7 @@ Specifically, my research interests are:
 _Revision requested_
 
 - **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
-with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi 
+with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi \
 _Submitted for publication_
 
 - **Ultrametric Factor Analysis** \
