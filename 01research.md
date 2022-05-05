@@ -30,7 +30,7 @@ with Pasquale Sarnacchiaro
 - **Stepwise Approach for Evaluating Covariate Effects on Mixture Multigroup Factor Analysis** \
 with Jeroen Vermunt and Kim De Roover
 
-- **Multiple Record Linkage** \
+- **Complex Dimensionality Reduction for Mixed-Type Data** \
 with Marco Mingione and Maurizio Vichi
 
 
