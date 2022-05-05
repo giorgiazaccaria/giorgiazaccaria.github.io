@@ -17,8 +17,9 @@ Specifically, my research interests are:
  with Carlo Cavicchia and Maurizio Vichi \
 _Revision requested_
 
-- **An ultrametric model to build a composite indicator system** \
+- **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
 with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi 
+_Submitted for publication_
 
 - **Ultrametric Factor Analysis** \
 with Carlo Cavicchia and Maurizio Vichi 
