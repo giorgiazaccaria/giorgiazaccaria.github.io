@@ -19,7 +19,7 @@ _Revision requested_
 
 - **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
 with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi \
-_Submitted for publication_
+_Under review_
 
 - **Ultrametric Factor Analysis** \
 with Carlo Cavicchia and Maurizio Vichi 
