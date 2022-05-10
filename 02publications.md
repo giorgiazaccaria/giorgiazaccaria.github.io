@@ -9,7 +9,6 @@ permalink: /publications/
    **Gaussian mixture model with an extended ultrametric covariance structure.** \
    _Advances in Data Analysis and Classification_, doi:10.1007/s11634-021-00488-x. \
    <a href="https://link.springer.com/article/10.1007/s11634-021-00488-x" target="_blank">Link</a>
-   
 2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
    **The ultrametric correlation matrix for modelling hierarchical latent concepts.** \
    _Advances in Data Analysis and Classification_, 14(4), 837-853.\
@@ -28,8 +27,9 @@ permalink: /publications/
 #### Referred conference articles
 1. Zaccaria, G., Sarnacchuaro P. (2022) \
  **An ultrametric model for building a composite indicator system to study climate change in European countries.** \
- A. Balzanella, M. Bini, C. Cavicchia, R. Verde. (Eds.), _Book of Short Papers SIS 2022_. Pearson. (_Forthcoming_)
-2. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2022) \
+ A. Balzanella, M. Bini, C. Cavicchia, R. Verde. (Eds.), _Book of Short Papers SIS 2022_. Pearson. \
+ _Forthcoming_
+ 2. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2022) \
  **An ultrametric model to build a Composite Indicators system.** \
  R. Lombardo, I. Camminatiello, V. Simonacci (Eds.), _Book of Short papers, 10th International Conference IES 2022 Innovation & Society 5.0: Statistical and Economic Methodologies for Quality Assessment, Department of Economics, University of Campania “L. Vanvitelli”, January 27th - 28th 2022_ (pp. 208-211). Sesto San Giovanni: PKE - Professional Knowledge Empowerment s.r.l. \
  ISBN: 978-88-94593-35-8.
