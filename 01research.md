@@ -15,7 +15,7 @@ Specifically, my research interests are:
 ### Ongoing projects
 - **Hierarchical Disjoint principal component analysis** \
  with Carlo Cavicchia and Maurizio Vichi \
-_Revision requested_
+_Under second revision_
 
 - **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
 with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi \
