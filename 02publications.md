@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-#### Referred journal articles
+#### Peer-reviewed journal articles
 1.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
    **Gaussian mixture model with an extended ultrametric covariance structure.** \
    _Advances in Data Analysis and Classification_, doi:10.1007/s11634-021-00488-x. \
@@ -14,7 +14,7 @@ permalink: /publications/
    _Advances in Data Analysis and Classification_, 14(4), 837-853.\
    <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a>
    
-#### Articles in edited volumes and monographs
+#### Peer-reviewed articles in edited volumes and monographs
 1. Zaccaria, G. (2022) \
    **Ultrametric models for hierarchical dimensionality reduction.** \
    _Ph.D. Thesis_. \
@@ -24,7 +24,7 @@ permalink: /publications/
   T. Imaizumi, A. Nakayama, S. Yokoyama, S. (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_, vol. 5 (pp.   315-328). Springer, Singapore. \
  <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a> 
  
-#### Referred conference articles
+#### Peer-reviewed conference articles
 1. Zaccaria, G., Sarnacchuaro P. (2022) \
  **An ultrametric model for building a composite indicator system to study climate change in European countries.** \
  A. Balzanella, M. Bini, C. Cavicchia, R. Verde. (Eds.), _Book of Short Papers SIS 2022_. Pearson. \
