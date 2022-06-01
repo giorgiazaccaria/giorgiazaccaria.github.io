@@ -25,7 +25,7 @@ _Under first revision_
 - **Ultrametric Factor Analysis** \
 with Carlo Cavicchia and Maurizio Vichi 
 
-- **Gaussian parsimonious models with an Extended Ultrametric Covariance Structure** \
+- **Parsimonious Gaussian mixture models with extended ultrametric covariance structures** \
 with Carlo Cavicchia and Maurizio Vichi
 
 - **An ultrametric model for building a composite indicator system to study climate change in European countries** \
