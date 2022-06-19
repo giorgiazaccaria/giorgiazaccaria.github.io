@@ -7,7 +7,7 @@ permalink: /publications/
 #### Peer-reviewed journal articles
 1.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
    **Gaussian mixture model with an extended ultrametric covariance structure.** \
-   _Advances in Data Analysis and Classification_, doi:10.1007/s11634-021-00488-x. \
+   _Advances in Data Analysis and Classification_, 16(2), 399-427. \
    <a href="https://link.springer.com/article/10.1007/s11634-021-00488-x" target="_blank">Link</a>
 2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
    **The ultrametric correlation matrix for modelling hierarchical latent concepts.** \
