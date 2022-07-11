@@ -18,7 +18,7 @@
 
   
 ## News
-** July 2022**
+**July 2022**
 - **New paper!** – Our work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Hierarchical Disjoint Principal Component Analysis_ has been accepted for publication in AStA Advances in Statistical Analysis.
 
 **Mar 2022**
