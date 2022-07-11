@@ -7,7 +7,7 @@ permalink: /publications/
 #### Peer-reviewed journal articles
 1.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022+) \
   **Hierarchical Disjoint Principal Component Analysis.** \
-   _AStA Advances in Statistical Analysis_. \
+   _AStA Advances in Statistical Analysis_. 
 2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
    **Gaussian mixture model with an extended ultrametric covariance structure.** \
    _Advances in Data Analysis and Classification_, 16(2), 399-427. \
