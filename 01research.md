@@ -14,19 +14,16 @@ Specifically, my research interests are:
 - model-based composite indicators.
 
 ### Ongoing projects
-- **Hierarchical Disjoint principal component analysis** \
- with Carlo Cavicchia and Maurizio Vichi \
-_Under second revision_
-
 - **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
 with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi \
-_Under first revision_
+_Revision required_
 
 - **Ultrametric Factor Analysis** \
 with Carlo Cavicchia and Maurizio Vichi 
 
 - **Parsimonious Gaussian mixture models with extended ultrametric covariance structures** \
-with Carlo Cavicchia and Maurizio Vichi
+with Carlo Cavicchia and Maurizio Vichi \
+_In preparation_
 
 - **An ultrametric model for building a composite indicator system to study climate change in European countries** \
 with Pasquale Sarnacchiaro
