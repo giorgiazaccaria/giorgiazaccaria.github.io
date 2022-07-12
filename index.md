@@ -19,7 +19,7 @@
   
 ## News
 **July 2022**
-- **New paper!** – Our work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Hierarchical Disjoint Principal Component Analysis_ has been accepted for publication in AStA Advances in Statistical Analysis.
+- **New paper!** – Our work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Hierarchical Disjoint Principal Component Analysis_ has been accepted for publication in _AStA Advances in Statistical Analysis_.
 
 **Mar 2022**
 - **CESS 2022** - I am glad to announce the <a href="https://cess2022.dss.uniroma1.it/event/3/abstracts/" target="_blank">call for abstracts</a> of the <a href="https://cess2022.dss.uniroma1.it/event/3/" target="_blank">**Conference of European Statistics Stakeholders 2022**</a> as member of the Local Organizing Committee. The conference will be held at the Department of Statistical Sciences of Sapienza University of Rome on October 20-21, 2022. \
