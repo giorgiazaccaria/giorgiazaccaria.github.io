@@ -13,8 +13,8 @@
   
   
   <h1 align="center">Giorgia Zaccaria</h1>
-  <h3 align="center">Ph.D. in Methodological Statistics</h3>
-   <!-- <h3 align="center"><a href="https://www.unitelmasapienza.it/it" target="_blank">University of Rome Unitelma Sapienza</a></h3> -->
+  <h3 align="center">Postdoctoral Research Fellow</h3>
+    <h3 align="center"><a href="https://www.dismeq.unimib.it/it" target="_blank">University of Milano-Bicocca</a></h3> 
 
   
 ## Breaking News
