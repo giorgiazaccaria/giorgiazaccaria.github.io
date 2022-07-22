@@ -17,8 +17,10 @@
    <!-- <h3 align="center"><a href="https://www.unitelmasapienza.it/it" target="_blank">University of Rome Unitelma Sapienza</a></h3> -->
 
   
-## News
+## Breaking News
 **July 2022**
+- **Talk** - I am looking forward to join the <a href="https://ifcs2022.fep.up.pt/" target="_blank">17th conference of the International Federation of Classification Societies</a>, where I will present our work on GMM with ultrametric covariance structures and its extension to more parsimonious cases.
+
 - **New paper!** – Our work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Hierarchical Disjoint Principal Component Analysis_ has been accepted for publication in _AStA Advances in Statistical Analysis_.
 
 **Mar 2022**
