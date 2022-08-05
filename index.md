@@ -14,7 +14,7 @@
   
   <h1 align="center">Giorgia Zaccaria</h1>
   <h3 align="center">Postdoctoral Research Fellow</h3>
-    <h3 align="center"><a href="https://www.dismeq.unimib.it/it" target="_blank">University of Milano-Bicocca</a></h3> 
+  <h3 align="center"><a href="https://www.dismeq.unimib.it/it" target="_blank">University of Milano-Bicocca</a></h3> 
 
   
 ## Breaking News
