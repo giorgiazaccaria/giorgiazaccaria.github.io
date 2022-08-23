@@ -4,7 +4,7 @@ title: About me
 permalink: /aboutme/
 ---
 
-<img src="20220822_174549.jpg" style="width:1000px;" align="middle">
+<img src="20220822_174549.jpg" style="width:500px;" align="middle">
 
 
 I am a **Postdoctoral Research Fellow** (from October 1, 2022) at University of Milano-Bicocca, Milan, Italy.
