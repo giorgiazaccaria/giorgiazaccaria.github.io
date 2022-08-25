@@ -4,9 +4,6 @@ title: About me
 permalink: /aboutme/
 ---
 
-
-<img src="ZacGithub.jpg" style="width:1000px;" align="middle">
-
 I am a **Postdoctoral Research Fellow** (from October 1, 2022) at University of Milano-Bicocca, Milan, Italy.
 
 You can find my full CV <a href="https://giorgiazaccaria.github.io/Zaccaria_CV.pdf" target="_blank"><ins>here</ins>.</a>
