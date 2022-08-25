@@ -5,7 +5,7 @@ permalink: /aboutme/
 ---
 
 
-<img src="20220822_174549.jpg">
+<img src="Puglia.jpg" style="width:500px;" align="middle">
 
 I am a **Postdoctoral Research Fellow** (from October 1, 2022) at University of Milano-Bicocca, Milan, Italy.
 
