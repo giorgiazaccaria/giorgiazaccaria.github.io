@@ -18,10 +18,12 @@
 
   
 ## Breaking News
+**August 2022**
+- **New paper!** – Our work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Hierarchical Disjoint Principal Component Analysis_ has been published in _ASta Advances in Statistical Analysis_. Click on the <a href="https://link.springer.com/article/10.1007/s10182-022-00458-4" target="_blank">link</a> to read it!
+
+
 **July 2022**
 - **Talk** - I am looking forward to join the <a href="https://ifcs2022.fep.up.pt/" target="_blank">17th conference of the International Federation of Classification Societies</a>, where I will present our work on GMM with ultrametric covariance structures and its extension to more parsimonious cases.
-
-- **New paper!** – Our work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Hierarchical Disjoint Principal Component Analysis_ has been accepted for publication in _AStA Advances in Statistical Analysis_.
 
 **Mar 2022**
 - **CESS 2022** - I am glad to announce the <a href="https://cess2022.dss.uniroma1.it/event/3/abstracts/" target="_blank">call for abstracts</a> of the <a href="https://cess2022.dss.uniroma1.it/event/3/" target="_blank">**Conference of European Statistics Stakeholders 2022**</a> as member of the Local Organizing Committee. The conference will be held at the Department of Statistical Sciences of Sapienza University of Rome on October 20-21, 2022. \
