@@ -4,7 +4,7 @@ title: About me
 permalink: /aboutme/
 ---
 
-![](Puglia.png)
+![](Puglia.jpg)
  
 I am a **Postdoctoral Research Fellow** (from October 1, 2022) at University of Milano-Bicocca, Milan, Italy.
 
