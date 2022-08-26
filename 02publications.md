@@ -19,17 +19,21 @@ permalink: /publications/
    <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a>
    
 #### Peer-reviewed articles in edited volumes and Ph.D. thesis
-1. Zaccaria, G. (2022) \
+1. Mingione, M., Vichi, M., Zaccaria, G. (2022) \
+   **Complex Dimensionality Reduction: Ultrametric Models for Mixed-Type Data.** \
+   In: L.A. Garcia-Escudero, A. Gordaliza, A. Mayo, M. Asunción Lubiano Gomez, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz (Eds.) _Building Bridges between Soft      and Statistical Methodologies for Data Science. SMPS 2022. Advances in Intelligent Systems and Computing_, vol 1433. Springer, Cham. doi: 10.1007/978-3-031-15509-3_37 \
+   <a href="https://link.springer.com/chapter/10.1007/978-3-031-15509-3_37" target="_blank">Link</a>
+3. Zaccaria, G. (2022) \
    **Ultrametric models for hierarchical dimensionality reduction.** \
    _Ph.D. Thesis_. \
    <a href="https://iris.uniroma1.it/handle/11573/1628179?mode=full.4076" target="_blank">Link</a>
-2. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
+3. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
   **Exploring hierarchical concepts: theoretical and application comparisons.** \
-  T. Imaizumi, A. Nakayama, S. Yokoyama, S. (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_, vol. 5 (pp.   315-328). Springer, Singapore. \
+  T. Imaizumi, A. Nakayama, S. Yokoyama, S. (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_,   vol. 5 (pp.   315-328). Springer, Singapore. \
  <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a> 
  
 #### Peer-reviewed conference articles
- 1. Zaccaria, G., Sarnacchuaro P. (2022) \
+ 1. Zaccaria, G., Sarnacchiaro P. (2022) \
  **An ultrametric model for building a composite indicator system to study climate change in European countries.** \
  A. Balzanella, M. Bini, C. Cavicchia, R. Verde. (Eds.), _Book of Short Papers SIS 2022_. Pearson. \
  _Forthcoming_.
