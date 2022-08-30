@@ -17,7 +17,7 @@
   <h3 align="center"><a href="https://www.dismeq.unimib.it/it" target="_blank">University of Milano-Bicocca</a></h3> 
 
   
-## Breaking News
+## News
 **August 2022**
 - **New paper!** – Our work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Hierarchical Disjoint Principal Component Analysis_ has been published in _ASta Advances in Statistical Analysis_. Click on the <a href="https://link.springer.com/epdf/10.1007/s10182-022-00458-4?sharing_token=_hQdKnmPFjEiTAqgbN2MwPe4RwlQNchNByi7wbcMAY6LYFaEoM6VNzVm_6t61nksuxr6EPPiGVwU6PicfEIvCcwsrUq7yaNa9WQzUyPun_V9On5NlGbz30_ypdjEBCIgjYb3g-Cvc04PODwPPrMc4zNZnMkfDhKQS4j-cRmC6zA%3D" target="_blank">link</a> to read it!
 
