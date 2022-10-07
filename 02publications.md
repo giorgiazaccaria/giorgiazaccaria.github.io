@@ -36,7 +36,7 @@ permalink: /publications/
  1. Zaccaria, G., Sarnacchiaro P. (2022) \
  **An ultrametric model for building a composite indicator system to study climate change in European countries.** \
  A. Balzanella, M. Bini, C. Cavicchia, R. Verde. (Eds.), _Book of Short Papers SIS 2022_. Pearson. \
- _Forthcoming_.
+ ISBN: 978-88-9193-231-0.
  2. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2022) \
  **An ultrametric model to build a Composite Indicators system.** \
  R. Lombardo, I. Camminatiello, V. Simonacci (Eds.), _Book of Short papers, 10th International Conference IES 2022 Innovation & Society 5.0: Statistical and Economic Methodologies for Quality Assessment, Department of Economics, University of Campania “L. Vanvitelli”, January 27th - 28th 2022_ (pp. 208-211). Sesto San Giovanni: PKE - Professional Knowledge Empowerment s.r.l. \
