@@ -16,7 +16,7 @@ Specifically, my research interests are:
 ### Ongoing projects
 - **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
 with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi \
-_Revision required_
+_Under second review_
 
 - **Ultrametric Factor Analysis** \
 with Carlo Cavicchia and Maurizio Vichi 
