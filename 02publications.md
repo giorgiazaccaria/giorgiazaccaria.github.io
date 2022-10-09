@@ -35,7 +35,7 @@ permalink: /publications/
 #### Peer-reviewed conference articles
  1. Zaccaria, G., Sarnacchiaro P. (2022) \
  **An ultrametric model for building a composite indicator system to study climate change in European countries.** \
- A. Balzanella, M. Bini, C. Cavicchia, R. Verde. (Eds.), _Book of Short Papers SIS 2022_. Pearson. \
+ A. Balzanella, M. Bini, C. Cavicchia, R. Verde. (Eds.), _Book of Short Papers SIS 2022_ (pp. 970-974). Pearson. \
  ISBN: 978-88-9193-231-0.
  2. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2022) \
  **An ultrametric model to build a Composite Indicators system.** \
@@ -55,7 +55,7 @@ permalink: /publications/
  ISBN:  978-88-9192-736-1.
  6. Zaccaria, G., Vichi, M. (2020) \
  **Exploring drug consumption via an ultrametric correlation matrix.** \
- A. Pollice, N. Salvati, F. Schirripa Spagnolo (Eds.)_Book of Short Papers SIS 2020_ (pp. 372-377). Pearson. \
+ A. Pollice, N. Salvati, F. Schirripa Spagnolo (Eds.), _Book of Short Papers SIS 2020_ (pp. 372-377). Pearson. \
  ISBN: 978-88-9191-077-6.
  7. Cavicchia, C., Vichi, M., Zaccaria, G. (2019) \
  **Dimensionality reduction via hierarchical factorial structure.** \
