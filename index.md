@@ -20,7 +20,7 @@
 ## News
 
 **October 2022**
--**Conference and talk** - The **CESS 2022** conference days are approaching! (October 20-21, 2022, Department of Statistical Sciences, Sapienza University of Rome). \
+- **Conference and talk** - The **CESS 2022** conference days are approaching! (October 20-21, 2022, Department of Statistical Sciences, Sapienza University of Rome). \
 Have a look at conference website (<a href="https://cess2022.dss.uniroma1.it/event/3/" target="_blank">CESS2022 website</a>). Registration is still open.
 You can see the programme of the conference <a href="https://drive.google.com/file/d/1Om-ezLIFd2VJHHalOgV9lOxm1kJ5HfRa/view" target="_blank">here</a>.
 
