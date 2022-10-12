@@ -18,6 +18,11 @@
 
   
 ## News
+**October 2022**
+-**Conference and talk** - The **CESS 2022** conference days are approaching! (October 20-21, 2022, Department of Statistical Sciences, Sapienza University of Rome). \
+Have a look at conference website (<a href="https://cess2022.dss.uniroma1.it/event/3/" target="_blank">CESS2022 website</a>). Registration is still open.
+You can see the programme of the conference <a href="https://drive.google.com/file/d/1Om-ezLIFd2VJHHalOgV9lOxm1kJ5HfRa/view" target="_blank">here</a>.
+
 **August 2022**
 - **New paper!** – Our work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi entitled _Hierarchical Disjoint Principal Component Analysis_ has been published in _ASta Advances in Statistical Analysis_. Click on the <a href="https://link.springer.com/epdf/10.1007/s10182-022-00458-4?sharing_token=_hQdKnmPFjEiTAqgbN2MwPe4RwlQNchNByi7wbcMAY6LYFaEoM6VNzVm_6t61nksuxr6EPPiGVwU6PicfEIvCcwsrUq7yaNa9WQzUyPun_V9On5NlGbz30_ypdjEBCIgjYb3g-Cvc04PODwPPrMc4zNZnMkfDhKQS4j-cRmC6zA%3D" target="_blank">link</a> to read it!
 
