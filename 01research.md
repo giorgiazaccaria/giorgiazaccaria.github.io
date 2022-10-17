@@ -9,7 +9,7 @@ Specifically, my research interests are:
 - dimensionality reduction;
 - model-based clustering;
 - ultrametric models;
-- hierarchical models;
+- robust statistics;
 - mixed-type data;
 - model-based composite indicators.
 
