@@ -18,12 +18,16 @@ Specifically, my research interests are:
 with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi \
 _Under second review_
 
-- **Ultrametric Factor Analysis** \
-with Carlo Cavicchia and Maurizio Vichi 
-
 - **Parsimonious Gaussian mixture models with extended ultrametric covariance structures** \
 with Carlo Cavicchia and Maurizio Vichi \
 _In preparation_
+
+- **Ultrametric Gaussian Mixture Model with missing data and constraints** \
+with Francesca Greselin \
+_Ongoing_
+
+- **Ultrametric Factor Analysis** \
+with Carlo Cavicchia and Maurizio Vichi 
 
 - **An ultrametric model for building a composite indicator system to study climate change in European countries** \
 with Pasquale Sarnacchiaro
