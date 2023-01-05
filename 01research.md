@@ -20,11 +20,11 @@ _Under second review_
 
 - **Parsimonious Gaussian mixture models with extended ultrametric covariance structures** \
 with Carlo Cavicchia and Maurizio Vichi \
-_In preparation_
+_Manuscript in preparation_
 
 - **Ultrametric Gaussian Mixture Model with missing data and constraints** \
 with Francesca Greselin \
-_In preparation_
+_Manuscript in preparation_
 
 - **Ultrametric Factor Analysis** \
 with Carlo Cavicchia and Maurizio Vichi 
