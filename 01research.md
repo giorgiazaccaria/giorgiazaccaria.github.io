@@ -24,7 +24,7 @@ _In preparation_
 
 - **Ultrametric Gaussian Mixture Model with missing data and constraints** \
 with Francesca Greselin \
-_Ongoing_
+_In preparation_
 
 - **Ultrametric Factor Analysis** \
 with Carlo Cavicchia and Maurizio Vichi 
