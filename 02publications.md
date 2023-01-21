@@ -5,15 +5,18 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles
-1.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
+1. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2023+) \
+  **A model-based ultrametric composite indicator for studying waste management in Italian municipalities.** \
+   _Accepted for publication in Computational Statistics_.
+2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
   **Hierarchical Disjoint Principal Component Analysis.** \
    _AStA Advances in Statistical Analysis_, doi: 10.1007/s10182-022-00458-4.\
     <a href="https://link.springer.com/article/10.1007/s10182-022-00458-4" target="_blank">Link</a>
-2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
+3.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
    **Gaussian mixture model with an extended ultrametric covariance structure.** \
    _Advances in Data Analysis and Classification_, 16(2), 399-427. \
    <a href="https://link.springer.com/article/10.1007/s11634-021-00488-x" target="_blank">Link</a>
-3.  Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
+4.  Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
    **The ultrametric correlation matrix for modelling hierarchical latent concepts.** \
    _Advances in Data Analysis and Classification_, 14(4), 837-853.\
    <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a>
