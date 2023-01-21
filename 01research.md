@@ -14,15 +14,11 @@ Specifically, my research interests are:
 - model-based composite indicators.
 
 ### Ongoing projects
-- **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
-with Carlo Cavicchia, Pasquale Sarnacchiaro and Maurizio Vichi \
-_Under second review_
-
 - **Parsimonious Gaussian mixture models with extended ultrametric covariance structures** \
 with Carlo Cavicchia and Maurizio Vichi \
 _Manuscript in preparation_
 
-- **Ultrametric Gaussian Mixture Model with missing data and constraints** \
+- **Ultrametric Gaussian Mixture Model with missing data** \
 with Francesca Greselin \
 _Manuscript in preparation_
 
