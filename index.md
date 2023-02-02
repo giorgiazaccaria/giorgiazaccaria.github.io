@@ -19,6 +19,8 @@
   
 ## News
 **January 2023**
+- **Election as a member of the y-SIS board!** - I have been elected as a member of the y-SIS board! I am extremely happy to be part of y-SIS trying to reach relevant goals for the young statisticians’ community! More details on y-SIS activity are available <a href="https://youngsis.github.io/index.html" target="_blank">here</a>.
+
 - **Call for papers!** - The call for papers “High-quality and timely statistics: new methods and applications” in <a href="https://www.springer.com/series/10104" target="_blank">Springer-Nature Series Studies in Theoretical and Applied Statistics</a> is open. \
 Guest Editors: Marco Mingione, Maurizio Vichi, Giorgia Zaccaria. \
 For further details click <a href="https://cess2022.dss.uniroma1.it/event/3/page/7-papers-publication" target="_blank">here</a>.
