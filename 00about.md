@@ -18,7 +18,7 @@ _M.Sc. in Statistical and Decision Sciences- European Master in Official Statist
 Supervisor: Prof. Maurizio Vichi.
 
 **Sep 2013 - Oct 2016** \
-_B.Sc. in Statistics, Economics and Finance_, University of Rome La Sapienza, Italy. \
+_B.Sc. in Statistics, Economics and Society_, University of Rome La Sapienza, Italy. \
 Supervisor: Prof. Marco Perone Pacifico.
 
 ### Grants/Awards
