@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles
-1. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2023+) \
+1. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2023) \
   **A model-based ultrametric composite indicator for studying waste management in Italian municipalities.** \
    _Computational Statistics_, doi: 10.1007/s00180-023-01333-9.\
     <a href="https://link.springer.com/article/10.1007/s00180-023-01333-9" target="_blank">Link</a>
