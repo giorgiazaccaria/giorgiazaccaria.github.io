@@ -7,7 +7,8 @@ permalink: /publications/
 #### Peer-reviewed journal articles
 1. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2023+) \
   **A model-based ultrametric composite indicator for studying waste management in Italian municipalities.** \
-   _Accepted for publication in Computational Statistics_.
+   _Computational Statistics_, doi: 10.1007/s00180-023-01333-9.\
+    <a href="https://link.springer.com/article/10.1007/s00180-023-01333-9" target="_blank">Link</a>
 2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
   **Hierarchical Disjoint Principal Component Analysis.** \
    _AStA Advances in Statistical Analysis_, doi: 10.1007/s10182-022-00458-4.\
