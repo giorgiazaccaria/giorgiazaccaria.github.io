@@ -20,7 +20,7 @@
 ## News
 **March 2023**
 - **New paper!** – My joint work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a>, Pasquale Sarnacchiaro and Maurizio Vichi entitled _A model-based ultrametric composite indicator for studying waste management in Italian municipalities_ has been published in _Computational Statistics_. Click on this <a href=[https://link.springer.com/article/10.1007/s00180-023-01333-9" target="_blank">link</a> to read it!
-- 
+
 **January 2023**
 - **Election as a member of the y-SIS board!** - I have been elected as a member of the y-SIS board! I am extremely happy to be part of y-SIS trying to reach relevant goals for the young statisticians’ community! More details on the y-SIS activities are available <a href="https://youngsis.github.io/index.html" target="_blank">here</a>.
 
