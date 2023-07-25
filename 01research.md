@@ -20,16 +20,21 @@ _Manuscript in preparation_
 
 - **Ultrametric Gaussian Mixture Model with missing data** \
 with Francesca Greselin \
+_Submitted for publication_
+
+- **macroUGMM: model-based clustering with ultrametric structures in the presence of missing and cell-wise and row-wise outliers** \
+with Francesca Greselin \
 _Manuscript in preparation_
 
 - **Ultrametric Factor Analysis** \
-with Carlo Cavicchia and Maurizio Vichi 
+with Carlo Cavicchia and Maurizio Vichi
+
+- **Complex Dimensionality Reduction for Mixed-Type Data** \
+with Marco Mingione and Maurizio Vichi
 
 - **An ultrametric model for building a composite indicator system to study climate change in European countries** \
 with Pasquale Sarnacchiaro
 
-- **Complex Dimensionality Reduction for Mixed-Type Data** \
-with Marco Mingione and Maurizio Vichi
 
 
 
