@@ -5,33 +5,33 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles
-1. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2023) \
+4. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2023) \
   **A model-based ultrametric composite indicator for studying waste management in Italian municipalities.** \
    _Computational Statistics_, doi: 10.1007/s00180-023-01333-9.\
     <a href="https://link.springer.com/article/10.1007/s00180-023-01333-9" target="_blank">Link</a>
-2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
+3.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
   **Hierarchical Disjoint Principal Component Analysis.** \
    _AStA Advances in Statistical Analysis_, doi: 10.1007/s10182-022-00458-4.\
     <a href="https://link.springer.com/article/10.1007/s10182-022-00458-4" target="_blank">Link</a>
-3.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
+2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
    **Gaussian mixture model with an extended ultrametric covariance structure.** \
    _Advances in Data Analysis and Classification_, 16(2), 399-427. \
    <a href="https://link.springer.com/article/10.1007/s11634-021-00488-x" target="_blank">Link</a>
-4.  Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
+1.  Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
    **The ultrametric correlation matrix for modelling hierarchical latent concepts.** \
    _Advances in Data Analysis and Classification_, 14(4), 837-853.\
    <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a>
    
 #### Peer-reviewed articles in edited volumes and Ph.D. thesis
-1. Mingione, M., Vichi, M., Zaccaria, G. (2022) \
+3. Mingione, M., Vichi, M., Zaccaria, G. (2022) \
    **Complex Dimensionality Reduction: Ultrametric Models for Mixed-Type Data.** \
    In: L.A. Garcia-Escudero, A. Gordaliza, A. Mayo, M. Asunción Lubiano Gomez, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz (Eds.) _Building Bridges between Soft      and Statistical Methodologies for Data Science. SMPS 2022. Advances in Intelligent Systems and Computing_, vol 1433. Springer, Cham. doi: 10.1007/978-3-031-15509-3_37 \
    <a href="https://link.springer.com/chapter/10.1007/978-3-031-15509-3_37" target="_blank">Link</a>
-3. Zaccaria, G. (2022) \
+2. Zaccaria, G. (2022) \
    **Ultrametric models for hierarchical dimensionality reduction.** \
    _Ph.D. Thesis_. \
    <a href="https://iris.uniroma1.it/handle/11573/1628179?mode=full.4076" target="_blank">Link</a>
-3. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
+1. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
   **Exploring hierarchical concepts: theoretical and application comparisons.** \
   T. Imaizumi, A. Nakayama, S. Yokoyama, S. (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_,   vol. 5 (pp.   315-328). Springer, Singapore. \
  <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a> 
