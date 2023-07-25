@@ -7,7 +7,7 @@ permalink: /contact/
 
 ![](milano-bicocca.jpg)
 
-Room 4007, 4th floor, U7 building \
+Room 2063, 2nd floor, U7 building \
 Department of Statistics and Quantitative Methods (DISMEQ) \
 University of Milano-Bicocca \
 Via Bicocca degli Arcimboldi, 8 \
