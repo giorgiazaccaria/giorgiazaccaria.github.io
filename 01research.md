@@ -23,7 +23,7 @@ with Francesca Greselin \
 _Submitted for publication_
 
 - **macroUGMM: model-based clustering with ultrametric structures in the presence of missing and cell-wise and row-wise outliers** \
-with Francesca Greselin \
+with Mayo-Iscar and Francesca Greselin \
 _Manuscript in preparation_
 
 - **Ultrametric Factor Analysis** \
