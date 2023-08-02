@@ -14,12 +14,12 @@ Specifically, my research interests are:
 - model-based composite indicators.
 
 ### Ongoing projects
-- **Parsimonious Gaussian mixture models with extended ultrametric covariance structures** \
+- **Parsimonious Ultrametric Gaussian Mixture Models** \
 with Carlo Cavicchia and Maurizio Vichi \
 _Manuscript in preparation_ \
 <a href="https://github.com/giorgiazaccaria/PUGMM" target="_blank">Code</a>
 
-- **Ultrametric Gaussian Mixture Model with missing data** \
+- **Studying hierarchical latent structures in heterogeneous populations with missing information** \
 with Francesca Greselin \
 _Submitted for publication_
 
@@ -33,8 +33,6 @@ with Carlo Cavicchia and Maurizio Vichi
 - **Complex Dimensionality Reduction for Mixed-Type Data** \
 with Marco Mingione and Maurizio Vichi
 
-- **An ultrametric model for building a composite indicator system to study climate change in European countries** \
-with Pasquale Sarnacchiaro
 
 
 
