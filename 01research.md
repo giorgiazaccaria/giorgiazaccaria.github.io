@@ -16,7 +16,8 @@ Specifically, my research interests are:
 ### Ongoing projects
 - **Parsimonious Gaussian mixture models with extended ultrametric covariance structures** \
 with Carlo Cavicchia and Maurizio Vichi \
-_Manuscript in preparation_
+_Manuscript in preparation_ \
+<a href="https://github.com/giorgiazaccaria/PUGMM" target="_blank">Code</a>
 
 - **Ultrametric Gaussian Mixture Model with missing data** \
 with Francesca Greselin \
