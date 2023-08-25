@@ -18,13 +18,7 @@
 
   
 ## News
-**March 2023**
-- **New paper!** – My joint work with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a>, Pasquale Sarnacchiaro and Maurizio Vichi entitled _A model-based ultrametric composite indicator for studying waste management in Italian municipalities_ is now published in _Computational Statistics_. Click on this <a href="https://link.springer.com/article/10.1007/s00180-023-01333-9" target="_blank">link</a> to read it!
+**August 2023**
+- **StaTalk2023@DSSSapienza** – StaTalk 2023 is approaching! The workshop is addressed to master's students, students of 1st and 2nd level master's courses, doctoral students and, more generally, young researchers, but also at companies and research institutions and aims at promoting the interaction among young people in the Italian statistical community. StaTalk will take place in on **Friday, September 15th, 2023** at the **Department of Statistical Sciences of Sapienza University**. For more info visit the <a href="https://statalk2023.shinyapps.io/statalk2023/" target="_blank">website</a>!
 
-**January 2023**
-- **Election as a member of the y-SIS board!** - I have been elected as a member of the y-SIS board! I am extremely happy to be part of y-SIS trying to reach relevant goals for the young statisticians’ community! More details on the y-SIS activities are available <a href="https://youngsis.github.io/index.html" target="_blank">here</a>.
-
-- **Call for papers!** - The call for papers “High-quality and timely statistics: new methods and applications” in <a href="https://www.springer.com/series/10104" target="_blank">Springer-Nature Series Studies in Theoretical and Applied Statistics</a> is open. \
-Guest Editors: Marco Mingione, Maurizio Vichi, Giorgia Zaccaria. \
-For further details click <a href="https://cess2022.dss.uniroma1.it/event/3/page/7-papers-publication" target="_blank">here</a>.
 
