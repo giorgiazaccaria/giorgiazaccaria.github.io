@@ -27,11 +27,11 @@ with Francesca Greselin and Agustin Mayo-Iscar \
 _Manuscript in preparation_
 
 - **Complex Dimensionality Reduction for Mixed-Type Data** \
-with Marco Mingione and Maurizio Vichi
+with Marco Mingione and Maurizio Vichi \
 _Manuscript in preparation_
 
 - **Fuzzy Spectral Data Embedding** \
-with Cinzia Di Nuzzo
+with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
 - **Ultrametric Factor Analysis** \
