@@ -39,10 +39,12 @@ permalink: /publications/
 #### Peer-reviewed conference articles
 11. Zaccaria, G. (2023) \
 **Ultrametric Gaussian Mixture Models With Parsimonious Structures.** \
-P. Coretto, G. Giordano, M. La Rocca, M.L. Parrella, C. Rampichini (Eds.), _Book of Abstract and Short Papers CLADAG 2023_ (pp. 314-317). Pearson. ISBN: 978-88-9193-563-2.
+P. Coretto, G. Giordano, M. La Rocca, M.L. Parrella, C. Rampichini (Eds.), _Book of Abstract and Short Papers CLADAG 2023_ (pp. 314-317). Pearson. \
+ISBN: 978-88-9193-563-2.
 10. Greselin, F., Zaccaria, G. (2023) \
 **Handling missing data in complex phenomena: an ultrametric model-based approach for clustering.** \
-F. M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M. C. Recchioni (Eds.). _Book of Short Papers SIS 2023_ (pp. 961-996). Pearson. ISBN: 978-88-9193-561-8AAVV.
+F. M. Chelli, M. Ciommi, S. Ingrassia, F. Mariani, M. C. Recchioni (Eds.). _Book of Short Papers SIS 2023_ (pp. 961-996). Pearson. \
+ISBN: 978-88-9193-561-8AAVV.
 9. Zaccaria, G., Sarnacchiaro P. (2022) \
  **An ultrametric model for building a composite indicator system to study climate change in European countries.** \
  A. Balzanella, M. Bini, C. Cavicchia, R. Verde. (Eds.), _Book of Short Papers SIS 2022_ (pp. 970-974). Pearson. \
