@@ -20,9 +20,9 @@ _Under review_
 
 - **Studying hierarchical latent structures in heterogeneous populations with missing information** \
 with Francesca Greselin \
-_Under review_
+_Revision required_
 
-- **macroUGMM: model-based clustering with ultrametric structures in the presence of missing and cell-wise and row-wise outliers** \
+- **Uncovering data contamination: cellwise outlier detection in model-based clustering with missing data and constraints** \
 with Francesca Greselin and Agustin Mayo-Iscar \
 _Manuscript in preparation_
 
