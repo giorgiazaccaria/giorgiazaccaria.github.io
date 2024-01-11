@@ -9,9 +9,9 @@ permalink: /publications/
   **A model-based ultrametric composite indicator for studying waste management in Italian municipalities.** \
    _Computational Statistics_, doi: 10.1007/s00180-023-01333-9.\
     <a href="https://link.springer.com/article/10.1007/s00180-023-01333-9" target="_blank">Link</a>
-3.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
+3.  Cavicchia, C., Vichi, M., Zaccaria, G. (2023) \
   **Hierarchical Disjoint Principal Component Analysis.** \
-   _AStA Advances in Statistical Analysis_, doi: 10.1007/s10182-022-00458-4.\
+   _AStA Advances in Statistical Analysis_, 107(3), 537–574.\
     <a href="https://link.springer.com/article/10.1007/s10182-022-00458-4" target="_blank">Link</a>
 2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
    **Gaussian mixture model with an extended ultrametric covariance structure.** \
