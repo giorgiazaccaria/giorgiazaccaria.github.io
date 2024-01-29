@@ -23,11 +23,7 @@ with Francesca Greselin \
 _Revision required_
 
 - **Uncovering data contamination: cellwise outlier detection in model-based clustering with missing data and constraints** \
-with Francesca Greselin and Agustin Mayo-Iscar \
-_Manuscript in preparation_
-
-- **Complex Dimensionality Reduction for Mixed-Type Data** \
-with Marco Mingione and Maurizio Vichi \
+with Luis A. Garcìa-Escudero, Francesca Greselin and Agustín Mayo-Iscar \
 _Manuscript in preparation_
 
 - **Fuzzy Spectral Data Embedding** \
@@ -35,7 +31,11 @@ with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
 - **Ultrametric Factor Analysis** \
-with Carlo Cavicchia and Maurizio Vichi
+with Carlo Cavicchia and Maurizio Vichi\
+_Manuscript in preparation_
+
+
+
 
 
 
