@@ -16,7 +16,7 @@ Specifically, my research interests are:
 ### Ongoing projects
 - **Studying hierarchical latent structures in heterogeneous populations with missing information** \
 with Francesca Greselin \
-_Revision required_
+_Revision submitted_
 
 - **Uncovering data contamination: cellwise outlier detection in model-based clustering with missing data and constraints** \
 with Luis A. Garcìa-Escudero, Francesca Greselin and Agustín Mayo-Iscar \
