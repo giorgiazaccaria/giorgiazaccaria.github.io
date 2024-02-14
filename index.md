@@ -18,7 +18,7 @@
 
   
 ## News
-**August 2023**
-- **StaTalk2023@DSSSapienza** – StaTalk 2023 is approaching! The workshop is addressed to master's students, students of 1st and 2nd level master's courses, doctoral students and, more generally, young researchers, but also at companies and research institutions and aims at promoting the interaction among young people in the Italian statistical community. StaTalk will take place on **Friday, September 15th, 2023** at the **Department of Statistical Sciences of Sapienza University**. For more info visit the <a href="https://statalk2023.shinyapps.io/statalk2023/" target="_blank">website</a>!
+**February 2024**
+- **StaTalk2024@UniFi** – StaTalk 2024 is approaching! The workshop is addressed to master's students, students of 1st and 2nd level master's courses, doctoral students and, more generally, young researchers, but also at companies and research institutions and aims at promoting the interaction among young people in the Italian statistical community. StaTalk will take place on **May 30th-31st, 2024** at the **Department of Statistics, Computer Science, Applications "G. Parenti", Florence**. For more info visit the <a href="https://www.disia.unifi.it/vp-462-statalk2024.html" target="_blank">website</a>!
 
 
