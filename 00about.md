@@ -22,6 +22,9 @@ _B.Sc. in Statistics, Economics and Society_, University of Rome La Sapienza, It
 Supervisor: Prof. Marco Perone Pacifico.
 
 ### Grants/Awards
+**November 2023** \
+Grant for _Erasmus+ for Professors and Research Fellows_, a.y. 2023/2024, University of Milano Bicocca, Italy. 
+
 **October 2020** \
 Grant for _Junior Researcher "Avvio alla Ricerca"_, University of Rome La Sapienza, Italy.  \
 Project title: Hierarchical latent variable models for studying multidimensional phenomena in heterogeneous populations.
