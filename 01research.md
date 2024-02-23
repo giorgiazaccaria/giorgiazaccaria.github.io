@@ -27,7 +27,7 @@ with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
 - **Ultrametric Factor Analysis** \
-with Carlo Cavicchia and Maurizio Vichi\
+with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
 _Manuscript in preparation_
 
 
