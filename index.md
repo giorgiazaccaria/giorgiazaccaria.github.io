@@ -19,6 +19,8 @@
 
   
 ## News
+** April 2024**
+- ** New Paper!** -  Our work _Parimonious ultrametric Gaussian mixture models_ with <a href="https://carlocavicchia.github.io" target="_blank">Carlo Cavicchia</a> and Maurizio Vichi has now been published in Statistics and Computing. Read it <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="_blank">here</a> and have a look at my Github repository called PUGMM (<a href="https://github.com/giorgiazaccaria/PUGMM" target="_blank">here</a>) if you want to implement PUGMMs!
 **February 2024**
 - **StaTalk2024@UniFi** – StaTalk 2024 is approaching! The workshop is addressed to master's students, students of 1st and 2nd level master's courses, doctoral students and, more generally, young researchers, but also at companies and research institutions and aims at promoting the interaction among young people in the Italian statistical community. StaTalk will take place on **May 30th-31st, 2024** at the **Department of Statistics, Computer Science, Applications "G. Parenti", Florence**. For more info visit the <a href="https://www.disia.unifi.it/vp-462-statalk2024.html" target="_blank">website</a>!
 
