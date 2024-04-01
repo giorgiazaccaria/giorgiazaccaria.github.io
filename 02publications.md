@@ -7,7 +7,8 @@ permalink: /publications/
 #### Peer-reviewed journal articles
 5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024+) \
    **Parsimonious Ultrametric Gaussian Mixture Models** \
-   _Statistics and Computing_. Accepted for publication.
+   _Statistics and Computing_, 34, 108. \
+    <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="_blank">Link</a> 
 4. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2024) \
   **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
    _Computational Statistics_, 39, 21-50.\
