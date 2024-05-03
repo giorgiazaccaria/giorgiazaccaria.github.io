@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles
-5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024+) \
+5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024) \
    **Parsimonious Ultrametric Gaussian Mixture Models** \
    _Statistics and Computing_, 34, 108. \
     <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="_blank">Link</a> 
