@@ -28,7 +28,7 @@ _Manuscript in preparation_
 
 - **Ultrametric Factor Analysis** \
 with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
-_Manuscript in preparation_
+_Submitted_
 
 
 
