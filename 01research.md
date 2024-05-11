@@ -18,7 +18,11 @@ Specifically, my research interests are:
 with Francesca Greselin \
 _Revision submitted_
 
-- **Uncovering data contamination: cellwise outlier detection in model-based clustering with missing data and constraints** \
+- **Ultrametric Factor Analysis** \
+with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
+_Submitted_
+
+- **Cellwise outlier detection in Gaussian mixture models** \
 with Luis A. Garcìa-Escudero, Francesca Greselin and Agustín Mayo-Iscar \
 _Manuscript in preparation_
 
@@ -26,9 +30,10 @@ _Manuscript in preparation_
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
-- **Ultrametric Factor Analysis** \
-with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
-_Submitted_
+- **Mixtures of Disjoint Factor Analyzers** \
+_Manuscript in preparation_
+
+
 
 
 
