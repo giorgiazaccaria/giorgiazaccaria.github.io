@@ -20,7 +20,7 @@
   
 ## News
 **May 2024**
-- **New R package** - The release of our **Parsimonious Ultrametric Gaussian Mixture Models (PUGMM)** R package took place! PUGMM is a powerful tool for model-based clustering with parsimonious extended ultrametric covariance structures. To check it out on CRAN click <a href="https://cran.rstudio.com/web/packages/PUGMM/index.html" target="_blank">here</a>. 
+- **New R package!** - The release of our **Parsimonious Ultrametric Gaussian Mixture Models (PUGMM)** R package took place! PUGMM is a powerful tool for model-based clustering with parsimonious extended ultrametric covariance structures. To check it out on CRAN click <a href="https://cran.rstudio.com/web/packages/PUGMM/index.html" target="_blank">here</a>. 
 The corresponding methodology is detailed in our article on Statistics and Computing available <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="blank">here</a>.
   
 **April 2024**
