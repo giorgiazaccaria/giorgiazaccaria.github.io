@@ -19,6 +19,10 @@
 
   
 ## News
+**May 2024**
+- **New R package** - The release of our **Parsimonious Ultrametric Gaussian Mixture Models (PUGMM)** R package took place! PUGMM is a powerful tool for model-based clustering with parsimonious extended ultrametric covariance structures. To check it out on CRAN click <a href="https://cran.rstudio.com/web/packages/PUGMM/index.html" target="_blank">here</a>. 
+The corresponding methodology is detailed in our article on Statistics and Computing available <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="blank">here</a>.
+  
 **April 2024**
 - **New Paper!** -  Our work titled _Parimonious ultrametric Gaussian mixture models_ with <a href="https://carlocavicchia.github.io" target="blank">Carlo Cavicchia</a> and Maurizio Vichi has now been published in Statistics and Computing. Read it <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="blank">here</a> and have a look at my Github repository called PUGMM (<a href="https://github.com/giorgiazaccaria/PUGMM" target="_blank">here</a>) if you want to implement PUGMMs! 
   
