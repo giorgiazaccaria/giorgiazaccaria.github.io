@@ -16,22 +16,28 @@ Specifically, my research interests are:
 ### Ongoing projects
 - **Studying hierarchical latent structures in heterogeneous populations with missing information** \
 with Francesca Greselin \
-_Revision submitted_
+_Under second review_
 
 - **Ultrametric Factor Analysis** \
 with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
-_Submitted_
+_Under review_
 
 - **Cellwise outlier detection in Gaussian mixture models** \
 with Luis A. Garcìa-Escudero, Francesca Greselin and Agustín Mayo-Iscar \
+_Manuscript in preparation_
+
+- **Mixtures of Disjoint Factor Analyzers** \
+_Manuscript in preparation_
+
+- **Social and cultural sustainability: a model-based hierarchical composite indicator** \
+with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
 - **Fuzzy Spectral Data Embedding** \
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
-- **Mixtures of Disjoint Factor Analyzers** \
-_Manuscript in preparation_
+
 
 
 
