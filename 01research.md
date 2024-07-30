@@ -23,7 +23,7 @@ with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
 _Under review_
 
 - **Cellwise outlier detection in heterogeneous populations** \
-with Luis A. Garcìa-Escudero, Francesca Greselin and Agustín Mayo-Iscar \
+with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
 _Manuscript in preparation_
 
 - **Mixtures of Disjoint Factor Analyzers** \
