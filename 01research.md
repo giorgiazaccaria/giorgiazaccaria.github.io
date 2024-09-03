@@ -16,11 +16,11 @@ Specifically, my research interests are:
 ### Ongoing projects
 - **Studying hierarchical latent structures in heterogeneous populations with missing information** \
 with Francesca Greselin \
-_Under review_
+_Accepted for publication_
 
 - **Ultrametric Factor Analysis** \
 with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
-_Under review_
+_Revision required_
 
 - **Cellwise outlier detection in heterogeneous populations** \
 with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
