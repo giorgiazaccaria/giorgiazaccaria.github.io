@@ -14,9 +14,6 @@ Specifically, my research interests are:
 - model-based composite indicators.
 
 ### Ongoing projects
-- **Studying hierarchical latent structures in heterogeneous populations with missing information** \
-with Francesca Greselin \
-_Accepted for publication_
 
 - **Ultrametric Factor Analysis** \
 with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
