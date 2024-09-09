@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles
+6. Greselin, F., Zaccaria, G. (2024+) \
+   **Studying hierarchical latent structures in heterogeneous populations with missing information** \
+_Journal of Classification_ (Forthcoming)
 5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024) \
    **Parsimonious Ultrametric Gaussian Mixture Models** \
    _Statistics and Computing_, 34, 108. \
