@@ -21,7 +21,7 @@ _Revision required_
 
 - **Cellwise outlier detection in heterogeneous populations** \
 with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
-_Manuscript in preparation_
+_Submitted_
 
 - **Mixtures of Disjoint Factor Analyzers** \
 _Manuscript in preparation_
