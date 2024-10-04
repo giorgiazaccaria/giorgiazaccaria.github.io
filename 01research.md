@@ -21,18 +21,24 @@ _Revision required_
 
 - **Cellwise outlier detection in heterogeneous populations** \
 with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
-_Submitted_
+_Under review_
 
-- **Mixtures of Disjoint Factor Analyzers** \
-_Manuscript in preparation_
-
-- **Social and cultural sustainability: a model-based hierarchical composite indicator** \
+- **Social and cultural sustainability in Italy: a model-based hierarchical composite indicator** \
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
 - **Fuzzy Spectral Data Embedding** \
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
+
+- **Cellwise Fuzzy TCLUST** \
+with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
+_Manuscript in preparation_
+
+- **Mixtures of Disjoint Factor Analyzers** \
+_Manuscript in preparation_
+
+
 
 
 
