@@ -20,7 +20,7 @@
   
 ## News
 **October 2024**
-- **New Paper!** -  Our work titled _Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information_ with <a href="https://sites.google.com/unimib.it/francesca-greselin" target="blank">Francesca Greselin</a> has been published in Journal of Classification. Read it <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="blank">here</a>. We will include the R code in the package _PUGMM_ available on CRAN soon!
+- **New Paper!** -  Our work titled _Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information_ with <a href="https://sites.google.com/unimib.it/francesca-greselin" target="blank">Francesca Greselin</a> has been published in Journal of Classification. Read it <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="blank">here</a>. We will include soon the R code in the package _PUGMM_ available on CRAN!
 
 **September 2024**
 - **New preprint!** - Our work titled _Cellwise outlier detection in heterogeneous populations_ with Luis A. García-Escudero, Francesca Greselin, and Agustín Mayo-Íscar is now available on arXiv (<a href="https://arxiv.org/abs/2409.07881" target="blank">link</a>)!
