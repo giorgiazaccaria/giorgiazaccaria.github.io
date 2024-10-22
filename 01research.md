@@ -25,9 +25,9 @@ _Under review_
 
 - **Social and cultural sustainability in Italy: a model-based hierarchical composite indicator** \
 with Cinzia Di Nuzzo \
-_Manuscript in preparation_
+_Submitted_
 
-- **Fuzzy Spectral Data Embedding** \
+- **Fuzzy and Robust Spectral Data Embedding** \
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
