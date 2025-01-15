@@ -19,6 +19,9 @@
 
   
 ## News
+**November 2024**
+- **Plenary Talk!** -  It is a great honor and pleasure for me to be one of the plenary speakers at the  <a href="https://eventos.uva.es/109666/section/53592/6th-bymat-conference-bringing-young-mathematicians-together-november-4th-7th.html" target="blank">6th BYMAT conference</a>. I presented an overview of  ultrametric models in both single and heterogeneous population frameworks! 
+
 **October 2024**
 - **New Paper!** -  Our work titled _Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information_ with <a href="https://sites.google.com/unimib.it/francesca-greselin" target="blank">Francesca Greselin</a> has been published in Journal of Classification. Read it <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="blank">here</a>. We will include soon the R code in the package _PUGMM_ available on CRAN!
 
