@@ -21,7 +21,7 @@ _Under second review_
 
 - **Cellwise outlier detection in heterogeneous populations** \
 with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
-_Revision required_
+_Under second review_
 
 - **Social and cultural sustainability in Italy: a model-based hierarchical composite indicator** \
 with Cinzia Di Nuzzo \
