@@ -5,9 +5,14 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles
+
+
+7. Mariaelena Bottazzi Schenone, Carlo Cavicchia, Maurizio Vichi, Giorgia Zaccaria
+  **Ultrametric Factor Analysis** 
+  _Psychometrika, accepted for publication_
 6. Greselin, F., Zaccaria, G. (2024) \
    **Studying hierarchical latent structures in heterogeneous populations with missing information** \
-_Journal of Classification_, doi: 10.1007/s00357-024-09492-0. \
+  _Journal of Classification_, doi: 10.1007/s00357-024-09492-0. \
 <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="_blank">Link</a> 
 5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024) \
    **Parsimonious Ultrametric Gaussian Mixture Models** \
