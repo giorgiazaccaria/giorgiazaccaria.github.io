@@ -15,10 +15,6 @@ Specifically, my research interests are:
 
 ### Ongoing projects
 
-- **Ultrametric Factor Analysis** \
-with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi\
-_Under second review_
-
 - **Cellwise outlier detection in heterogeneous populations** \
 with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
 _Under second review_
