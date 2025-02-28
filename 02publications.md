@@ -5,8 +5,6 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles
-
-
 7. Mariaelena Bottazzi Schenone, Carlo Cavicchia, Maurizio Vichi, Giorgia Zaccaria
   **Ultrametric Factor Analysis** 
   _Psychometrika, accepted for publication_
