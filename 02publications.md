@@ -6,7 +6,7 @@ permalink: /publications/
 
 #### Peer-reviewed journal articles
 7. Bottazzi Schenone, M., Cavicchia, C., Vichi, M., Zaccaria, G. (2025) \
-  **Ultrametric Factor Analysis** \
+  **Ultrametric Factor Analysis for building hierarchies of reliable and unidimensional latent concepts** \
   _Psychometrika, accepted for publication_. 
 6. Greselin, F., Zaccaria, G. (2024) \
    **Studying hierarchical latent structures in heterogeneous populations with missing information** \
