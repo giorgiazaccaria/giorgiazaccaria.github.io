@@ -19,6 +19,9 @@
 
   
 ## News
+**March 2025**
+- **New Paper!** -  Our work titled _Ultrametric Factor Analysis for building hierarchies of reliable and unidimensional latent concepts_ with Mariaelena Bottazzi Schenobe, Carlo Cavicchia and Maurizio Vichi has been published in Psychometrika. Read it <a href="https://www.cambridge.org/core/journals/psychometrika/article/ultrametric-factor-analysis-for-building-hierarchies-of-reliable-and-unidimensional-latent-concepts/62DF5ED61425F15098081978FBE8C93C" target="blank">here</a>.
+
 **November 2024**
 - **Plenary Talk!** -  It is a great honor and pleasure for me to be one of the plenary speakers at the  <a href="https://eventos.uva.es/109666/section/53592/6th-bymat-conference-bringing-young-mathematicians-together-november-4th-7th.html" target="blank">6th BYMAT conference</a>. I presented an overview of  ultrametric models in both single and heterogeneous population frameworks! 
 
