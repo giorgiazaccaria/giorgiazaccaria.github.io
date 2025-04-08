@@ -6,15 +6,15 @@ permalink: /publications/
 
 #### Peer-reviewed journal articles
 7. Bottazzi Schenone, M., Cavicchia, C., Vichi, M., Zaccaria, G. (2025) \
-  **Ultrametric Factor Analysis for building hierarchies of reliable and unidimensional latent concepts** \
+  **Ultrametric Factor Analysis for Building Hierarchies of Reliable and Unidimensional Latent Concepts** \
   _Psychometrika_, doi: 10.1017/psy.2025.6. \
 <a href="https://doi.org/10.1017/psy.2025.6" target="_blank">Link</a> 
 6. Greselin, F., Zaccaria, G. (2024) \
-   **Studying hierarchical latent structures in heterogeneous populations with missing information** \
+   **Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information** \
   _Journal of Classification_, doi: 10.1007/s00357-024-09492-0. \
 <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="_blank">Link</a> 
 5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024) \
-   **Parsimonious Ultrametric Gaussian Mixture Models** \
+   **Parsimonious ultrametric Gaussian mixture models** \
    _Statistics and Computing_, 34, 108. \
     <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="_blank">Link</a> 
 4. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2024) \
@@ -22,7 +22,7 @@ permalink: /publications/
    _Computational Statistics_, 39, 21-50.\
     <a href="https://link.springer.com/article/10.1007/s00180-023-01333-9" target="_blank">Link</a>
 3.  Cavicchia, C., Vichi, M., Zaccaria, G. (2023) \
-  **Hierarchical Disjoint Principal Component Analysis** \
+  **Hierarchical disjoint principal component analysis** \
    _AStA Advances in Statistical Analysis_, 107(3), 537–574.\
     <a href="https://link.springer.com/article/10.1007/s10182-022-00458-4" target="_blank">Link</a>
 2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
