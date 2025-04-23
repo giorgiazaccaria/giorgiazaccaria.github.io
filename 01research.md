@@ -15,10 +15,6 @@ Specifically, my research interests are:
 
 ### Ongoing projects
 
-- **Cellwise outlier detection in heterogeneous populations** \
-with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
-_Revision Submitted_
-
 - **Social and cultural sustainability in Italy: a model-based hierarchical composite indicator** \
 with Cinzia Di Nuzzo \
 _Under second review_
