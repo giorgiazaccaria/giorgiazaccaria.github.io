@@ -7,7 +7,6 @@ permalink: /publications/
 #### Peer-reviewed journal articles
 8. Zaccaria, G., García Escudero, L.A., Greselin, F., Mayo-Íscar, A. (2025) \
 **Cellwise outlier detection in heterogeneous populations** \
-with Luis A. \
 _Accepted for publication in Technometrics_
 
 7. Bottazzi Schenone, M., Cavicchia, C., Vichi, M., Zaccaria, G. (2025) \
