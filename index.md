@@ -19,7 +19,7 @@
 
   
 ## News
-**March 2025**
+**May 2025**
 - **New Paper!** -  Our work titled _Cellwise outlier detection in heterogeneous population_ with Luis A. García-Escudero, Francesca Greselin, and Agustín Mayo-Íscar has been published in Technometrics. Read it <a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="blank">here</a>.
 
 **March 2025**
