@@ -20,6 +20,9 @@
   
 ## News
 **March 2025**
+- **New Paper!** -  Our work titled _Cellwise outlier detection in heterogeneous population_ with Luis A. García-Escudero, Francesca Greselin, and Agustín Mayo-Íscar has been published in Technometrics. Read it <a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="blank">here</a>.
+
+**March 2025**
 - **New Paper!** -  Our work titled _Ultrametric Factor Analysis for building hierarchies of reliable and unidimensional latent concepts_ with Mariaelena Bottazzi Schenone, Carlo Cavicchia and Maurizio Vichi has been published in Psychometrika. Read it <a href="https://www.cambridge.org/core/journals/psychometrika/article/ultrametric-factor-analysis-for-building-hierarchies-of-reliable-and-unidimensional-latent-concepts/62DF5ED61425F15098081978FBE8C93C" target="blank">here</a>.
 
 **November 2024**
@@ -27,18 +30,5 @@
 
 **October 2024**
 - **New Paper!** -  Our work titled _Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information_ with <a href="https://sites.google.com/unimib.it/francesca-greselin" target="blank">Francesca Greselin</a> has been published in Journal of Classification. Read it <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="blank">here</a>. We will include soon the R code in the package _PUGMM_ available on CRAN!
-
-**September 2024**
-- **New preprint!** - Our work titled _Cellwise outlier detection in heterogeneous populations_ with Luis A. García-Escudero, Francesca Greselin, and Agustín Mayo-Íscar is now available on arXiv (<a href="https://arxiv.org/abs/2409.07881" target="blank">link</a>)!
-  
-**May 2024**
-- **New R package!** - The release of our **Parsimonious Ultrametric Gaussian Mixture Models (PUGMM)** R package took place! PUGMM is a powerful tool for model-based clustering with parsimonious extended ultrametric covariance structures. To check it out on CRAN click <a href="https://cran.rstudio.com/web/packages/PUGMM/index.html" target="_blank">here</a>. 
-The corresponding methodology is detailed in our article on _Statistics and Computing_ available <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="blank">here</a>.
-  
-**April 2024**
-- **New Paper!** -  Our work titled _Parimonious ultrametric Gaussian mixture models_ with <a href="https://carlocavicchia.github.io" target="blank">Carlo Cavicchia</a> and Maurizio Vichi has now been published in Statistics and Computing. Read it <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="blank">here</a> and have a look at my Github repository called PUGMM (<a href="https://github.com/giorgiazaccaria/PUGMM" target="_blank">here</a>) if you want to implement PUGMMs! 
-  
-**February 2024**
-- **StaTalk2024@UniFi** – StaTalk 2024 is approaching! The workshop is addressed to master's students, students of 1st and 2nd level master's courses, doctoral students and, more generally, young researchers, but also at companies and research institutions and aims at promoting the interaction among young people in the Italian statistical community. StaTalk will take place on **May 30th-31st, 2024** at the **Department of Statistics, Computer Science, Applications "G. Parenti", Florence**. For more info visit the <a href="https://www.disia.unifi.it/vp-462-statalk2024.html" target="_blank">website</a>!
 
 
