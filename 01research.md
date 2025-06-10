@@ -24,7 +24,7 @@ with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
 - **Fuzzy cellCLUST** \
-with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
+with Lorenzo Banzakour, Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
 _Manuscript in preparation_
 
 - **Mixtures of Disjoint Factor Analyzers** \
