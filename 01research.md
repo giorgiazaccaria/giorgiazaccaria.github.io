@@ -23,7 +23,7 @@ _Under second review_
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
-- **Fuzzy cellCLUST** \
+- **Cellwise fuzzy clustering** \
 with Lorenzo Banzakour, Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
 _Manuscript in preparation_
 
