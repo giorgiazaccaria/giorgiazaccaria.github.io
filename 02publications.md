@@ -7,7 +7,7 @@ permalink: /publications/
 #### Peer-reviewed journal articles
 9. Zaccaria, G., Di Nuzzo, C. (2025) \
   **Social sustainability in Italy: a model-based hierarchical composite indicator** \
- _Accepted in Annals of Operations Research_ \
+ _Accepted in Annals of Operations Research_ 
 8. Zaccaria, G., García Escudero, L.A., Greselin, F., Mayo-Íscar, A. (2025) \
 **Cellwise outlier detection in heterogeneous populations** \
  _Published online in Technometrics_ \
