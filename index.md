@@ -19,6 +19,9 @@
 
   
 ## News
+**June 2025**
+- **New Release!** -  The new version of our R package _PUGMM_ is now available on CRAN at <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="blank">https://cran.r-project.org/web/packages/PUGMM</a>.
+
 **May 2025**
 - **New Paper!** -  Our work titled _Cellwise outlier detection in heterogeneous population_ with Luis A. García-Escudero, Francesca Greselin, and Agustín Mayo-Íscar has been published in Technometrics. Read it <a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="blank">here</a>.
 
