@@ -15,10 +15,6 @@ Specifically, my research interests are:
 
 ### Ongoing projects
 
-- **Social and cultural sustainability in Italy: a model-based hierarchical composite indicator** \
-with Cinzia Di Nuzzo \
-_Under second review_
-
 - **Fuzzy and Robust Spectral Data Embedding** \
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
