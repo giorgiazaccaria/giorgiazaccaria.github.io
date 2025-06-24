@@ -56,6 +56,14 @@ permalink: /publications/
  <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a> 
  
 #### Peer-reviewed conference articles
+13. Di Nuzzo, C., Zaccaria, G. (2025) \
+**Fuzzy Spectral Clustering** \
+E. di Bella, V. Gioia, C. Lagazio, S. Zaccarin (Eds.). _Statistics for Innovation III SIS 2025, Short Papers, Contributed Sessions 2_ (pp. 165-170). Pearson. \
+ISBN: 978-3-031-95994-3.
+12. Greselin, F., García Escudero, L.A., Mayo-Íscar, A., Zaccaria, G. (2025) \
+**Cellwise Robust Fuzzy Gaussian Mixtures** \
+E. di Bella, V. Gioia, C. Lagazio, S. Zaccarin (Eds.). _Statistics for Innovation IV SIS 2025, Short Papers, Contributed Sessions 3_ (pp. 542-547). Pearson. \
+ISBN: 978-3-031-96032-1.
 11. Zaccaria, G. (2023) \
 **Ultrametric Gaussian Mixture Models With Parsimonious Structures** \
 P. Coretto, G. Giordano, M. La Rocca, M.L. Parrella, C. Rampichini (Eds.), _Book of Abstract and Short Papers CLADAG 2023_ (pp. 314-317). Pearson. \
