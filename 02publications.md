@@ -14,7 +14,7 @@ permalink: /publications/
 <a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="_blank">Link</a> 
 7. Bottazzi Schenone, M., Cavicchia, C., Vichi, M., Zaccaria, G. (2025) \
   **Ultrametric Factor Analysis for Building Hierarchies of Reliable and Unidimensional Latent Concepts** \
-  _Psychometrika_, doi: 10.1017/psy.2025.6. \
+  _Psychometrika_, 1-20, doi: 10.1017/psy.2025.6. \
 <a href="https://doi.org/10.1017/psy.2025.6" target="_blank">Link</a> 
 6. Greselin, F., Zaccaria, G. (2024) \
    **Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information** \
