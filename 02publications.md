@@ -16,9 +16,9 @@ permalink: /publications/
   **Ultrametric Factor Analysis for Building Hierarchies of Reliable and Unidimensional Latent Concepts** \
   _Psychometrika_, 1-20, doi: 10.1017/psy.2025.6. \
 <a href="https://doi.org/10.1017/psy.2025.6" target="_blank">Link</a> 
-6. Greselin, F., Zaccaria, G. (2024) \
+6. Greselin, F., Zaccaria, G. (2025) \
    **Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information** \
-  _Journal of Classification_, doi: 10.1007/s00357-024-09492-0. \
+  _Journal of Classification_, 42, 284–310. \
 <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="_blank">Link</a> 
 5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024) \
    **Parsimonious ultrametric Gaussian mixture models** \
