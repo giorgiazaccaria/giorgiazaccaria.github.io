@@ -14,17 +14,18 @@ Specifically, my research interests are:
 - model-based composite indicators.
 
 ### Ongoing projects
-
-- **Fuzzy and Robust Spectral Data Embedding** \
-with Cinzia Di Nuzzo \
-_Manuscript in preparation_
-
-- **Cellwise fuzzy clustering** \
+- **Robust fuzzy clustering with cellwise outliers** \
 with Lorenzo Banzakour, Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
 _Manuscript in preparation_
 
 - **Mixtures of Disjoint Factor Analyzers** \
 _Manuscript in preparation_
+
+- **Fuzzy and Robust Spectral Data Embedding** \
+with Cinzia Di Nuzzo \
+_Manuscript in preparation_
+
+
 
 
 
