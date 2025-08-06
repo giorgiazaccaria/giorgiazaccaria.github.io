@@ -16,7 +16,7 @@ Specifically, my research interests are:
 ### Ongoing projects
 - **Robust fuzzy clustering with cellwise outliers** \
 with Lorenzo Banzakour, Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
-_Manuscript in preparation_
+_Submitted_
 
 - **Mixtures of Disjoint Factor Analyzers** \
 _Manuscript in preparation_
