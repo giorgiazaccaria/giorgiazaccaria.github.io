@@ -20,7 +20,7 @@
   
 ## News
 **August 2025**
-- **New Preprint!** -  Our work titled _Robust fuzzy clustering with cellwise outliers_ with Lorenzo Benzakour, Luis A. García-Escudero, Francesca Greselin, and Agustín Mayo-Íscar is now available on ArXiV. Read it <a href="https://www.arxiv.org/abs/2508.03310" target="blank">here</a>.
+- **New Preprint!** -  Our work titled _Robust fuzzy clustering with cellwise outliers_ with Lorenzo Benzakour, Luis A. García-Escudero, Francesca Greselin, and Agustín Mayo-Íscar is now available on arXiv. Read it <a href="https://www.arxiv.org/abs/2508.03310" target="blank">here</a>.
 
 **June 2025**
 - **New Release!** -  The new version of our R package _PUGMM_ is now available on CRAN at <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="blank">https://cran.r-project.org/web/packages/PUGMM</a>.
