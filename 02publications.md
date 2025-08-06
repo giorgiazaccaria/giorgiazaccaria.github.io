@@ -11,7 +11,7 @@ permalink: /publications/
 8. Zaccaria, G., García Escudero, L.A., Greselin, F., Mayo-Íscar, A. (2025) \
 **Cellwise outlier detection in heterogeneous populations** \
  _Technometrics, 1-12, doi: 10.1080/00401706.2025.2497822_ \
-<a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="_blank">Link</a> 
+<a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="_blank">Link</a> (<a href="https://arxiv.org/abs/2409.07881" target="_blank">arXiV</a>)
 7. Bottazzi Schenone, M., Cavicchia, C., Vichi, M., Zaccaria, G. (2025) \
   **Ultrametric Factor Analysis for Building Hierarchies of Reliable and Unidimensional Latent Concepts** \
   _Psychometrika_, 1-20, doi: 10.1017/psy.2025.6. \
