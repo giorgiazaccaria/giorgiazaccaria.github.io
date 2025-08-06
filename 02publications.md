@@ -19,7 +19,7 @@ permalink: /publications/
 6. Greselin, F., Zaccaria, G. (2025) \
    **Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information** \
   _Journal of Classification_, 42, 284–310. \
-<a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="_blank">Link</a> 
+<a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="_blank">Link</a> - <a href="https://github.com/giorgiazaccaria/MissUGMM" target="_blank">Code</a>
 5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024) \
    **Parsimonious ultrametric Gaussian mixture models** \
    _Statistics and Computing_, 34, 108. \
