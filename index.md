@@ -19,6 +19,9 @@
 
   
 ## News
+**September 2025**
+- **New Paper!** -  Our work titled _Social sustainability in Italy: a model-based hierarchical composite indicator_ with Cinzia Di Nuzzo has been published in Annals of Operations Research. Read it <a href="https://link.springer.com/article/10.1007/s10479-025-06731-4" target="blank">here</a>.
+
 **August 2025**
 - **New Preprint!** -  Our work titled _Robust fuzzy clustering with cellwise outliers_ with Lorenzo Benzakour, Luis A. García-Escudero, Francesca Greselin, and Agustín Mayo-Íscar is now available on arXiv. Read it <a href="https://www.arxiv.org/abs/2508.03310" target="blank">here</a>.
 
@@ -33,8 +36,4 @@
 
 **November 2024**
 - **Plenary Talk!** -  It is a great honor and pleasure for me to be one of the plenary speakers at the  <a href="https://eventos.uva.es/109666/section/53592/6th-bymat-conference-bringing-young-mathematicians-together-november-4th-7th.html" target="blank">6th BYMAT conference</a>. I presented an overview of  ultrametric models in both single and heterogeneous population frameworks! 
-
-**October 2024**
-- **New Paper!** -  Our work titled _Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information_ with <a href="https://sites.google.com/unimib.it/francesca-greselin" target="blank">Francesca Greselin</a> has been published in Journal of Classification. Read it <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="blank">here</a>. We will include soon the R code in the package _PUGMM_ available on CRAN!
-
 
