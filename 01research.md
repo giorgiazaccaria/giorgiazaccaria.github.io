@@ -25,7 +25,7 @@ _Manuscript in preparation_
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
-- **Cellwise outliers in mixture of matrix-variate normals**
+- **Cellwise outliers in mixture of matrix-variate normals** \
 with Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
 _Manuscript in preparation_
 
