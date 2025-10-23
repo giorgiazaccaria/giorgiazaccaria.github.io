@@ -21,7 +21,7 @@
 ## News
 **October 2025**
 - **New Release!** -  The new version of our R package _PUGMM_ is now available on CRAN at <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="blank">https://cran.r-project.org/web/packages/PUGMM</a>. It includes extensions for Parsimonious Ultrametric Manly Mixture Models authored by Alexa A. Sochaniwsky and Paul D. McNicholas.  
-- 
+
 **September 2025**
 - **New Paper!** -  Our work titled _Social sustainability in Italy: a model-based hierarchical composite indicator_ with Cinzia Di Nuzzo has been published in Annals of Operations Research. Read it <a href="https://link.springer.com/article/10.1007/s10479-025-06731-4" target="blank">here</a>.
 
