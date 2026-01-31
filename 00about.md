@@ -4,7 +4,7 @@ title: About me
 permalink: /aboutme/
 ---
  
-I am a **Postdoctoral Research Fellow** at University of Milano-Bicocca, Milan, Italy.
+I am a **Tenure-Track Assistant Professor** at University of Milano-Bicocca, Milan, Italy.
 
 You can find my full CV <a href="Zaccaria_CV_UpdateAugust2025.pdf" target="_blank"><ins>here</ins>.</a>
 
