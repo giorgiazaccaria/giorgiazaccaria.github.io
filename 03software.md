@@ -25,3 +25,7 @@ _Author and Maintainer_ \
 Ultrametric Factor Analysis to detect hierarchies of nested latent factors underlying multidimensional phenomena. UFA is estimated via a cycling block coordinate descent algorithm. \
 <a href="https://github.com/giorgiazaccaria/UFA" target="_blank">Github</a>.
 
+- **HierDPCA** \
+_Author and Maintainer_ \
+Hierarchical Disjoint Principal Component Analysis estimated via a coordinate descent algorithm. \
+<a href="https://github.com/giorgiazaccaria/HierDPCA" target="_blank">Github</a>.
