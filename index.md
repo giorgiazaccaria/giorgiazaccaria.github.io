@@ -14,7 +14,7 @@
   
   
   <h1 align="center">Giorgia Zaccaria</h1>
-  <h3 align="center">Tenure-track Assistant Professor (RTT)</h3>
+  <h3 align="center">Tenure-Track Assistant Professor (RTT)</h3>
   <h3 align="center"><a href="https://www.unimib.it/giorgia-zaccaria" target="_blank">University of Milano-Bicocca</a></h3> 
 
   
