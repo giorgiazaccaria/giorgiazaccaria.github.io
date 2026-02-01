@@ -18,6 +18,14 @@ Specifically, my research interests are:
 with Lorenzo Banzakour, Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
 _Under review_ (<a href="https://www.arxiv.org/abs/2508.03310" target="_blank">arXiv</a>)
 
+- **cellMMCD: Cellwise Matrix-Variate MCD** \
+with Marcus Mayrhofer, Francesca Greselin, and Peter Filzmoser \
+_Manuscript in preparation_
+
+- **Parsimonious Ultrametric Mixture Models for Matrix-Variate Data** \
+  ith Alexa Sochaniwsky and Paul McNicholas \
+_Manuscript in preparation_
+
 - **Mixtures of Disjoint Factor Analyzers** \
 _Manuscript in preparation_
 
