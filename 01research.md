@@ -23,7 +23,7 @@ with Marcus Mayrhofer, Francesca Greselin, and Peter Filzmoser \
 _Manuscript in preparation_
 
 - **Parsimonious Ultrametric Mixture Models for Matrix-Variate Data** \
-  ith Alexa Sochaniwsky and Paul McNicholas \
+with Alexa Sochaniwsky and Paul McNicholas \
 _Manuscript in preparation_
 
 - **Mixtures of Disjoint Factor Analyzers** \
