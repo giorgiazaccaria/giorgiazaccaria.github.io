@@ -7,8 +7,8 @@ permalink: /contact/
 
 ![](milano-bicocca.jpg)
 
-Room 4021, 4th floor, U7 building \
-Department of Statistics and Quantitative Methods (DISMEQ) \
+Deutsche Bank Building, 4th floor \
+Department of Economics, Management and Statistics (DEMS) \
 University of Milano-Bicocca \
 Via Bicocca degli Arcimboldi, 8 \
 20100 Milan 
