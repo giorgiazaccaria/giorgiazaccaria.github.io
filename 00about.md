@@ -6,7 +6,7 @@ permalink: /aboutme/
  
 I am a **Tenure-Track Assistant Professor** at University of Milano-Bicocca, Milan, Italy.
 
-You can find my full CV <a href="Zaccaria_CV_UpdatedFebruary2026.pdf" target="_blank"><ins>here</ins>.</a>
+You can find my full CV <a href="Zaccaria_CV_ENG_UpdateFebruary2026.pdf" target="_blank"><ins>here</ins>.</a>
 
 ### Education 
 **Nov 2018 - Feb 2022** \
