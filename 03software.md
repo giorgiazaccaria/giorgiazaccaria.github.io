@@ -3,7 +3,6 @@ layout: page
 title: Software
 permalink: /software/
 ---
-**R packages**
 - **cellGMM** \
 _Author and Maintainer_ \
 Gaussian Mixture Model with cellwise outlier detection via the EM algorithm. \
