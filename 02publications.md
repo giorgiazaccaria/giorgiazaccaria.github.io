@@ -7,7 +7,7 @@ permalink: /publications/
 #### Peer-reviewed journal articles
 10. Zaccaria, G., Banzakour, L., García Escudero, L. A., Greselin, F., Mayo-Íscar, A. (2026+) \
     **Robust fuzzy clustering with cellwise outliers** \
-   _International Journal of Approximate Reasoning_, Accepted for publication.\
+   _International Journal of Approximate Reasoning_, Accepted for publication.
 9. Zaccaria, G., Di Nuzzo, C. (2025) \
   **Social sustainability in Italy: a model-based hierarchical composite indicator** \
  _Annals of Operations Research_, 1-26, doi: 10.1007/s10479-025-06731-4 \
