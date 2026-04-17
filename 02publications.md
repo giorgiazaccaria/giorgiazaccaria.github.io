@@ -5,41 +5,44 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles
+10. Zaccaria, G., Banzakour, L., García Escudero, L. A., Greselin, F., Mayo-Íscar, A. (2026+) \
+    **Robust fuzzy clustering with cellwise outliers** \
+   _International Journal of Approximate Reasoning_, Accepted for publication.\
 9. Zaccaria, G., Di Nuzzo, C. (2025) \
   **Social sustainability in Italy: a model-based hierarchical composite indicator** \
  _Annals of Operations Research_, 1-26, doi: 10.1007/s10479-025-06731-4 \
 <a href="https://link.springer.com/article/10.1007/s10479-025-06731-4" target="_blank">Link</a> 
 8. Zaccaria, G., García Escudero, L.A., Greselin, F., Mayo-Íscar, A. (2025) \
-**Cellwise outlier detection in heterogeneous populations** \
- _Technometrics_, 67(4), 643-654. \
+   **Cellwise outlier detection in heterogeneous populations** \
+   _Technometrics_, 67(4), 643-654. \
 <a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="_blank">Link</a> - <a href="https://arxiv.org/abs/2409.07881" target="_blank">arXiV</a> - <a href="https://github.com/giorgiazaccaria/cellGMM" target="_blank">Code</a>
 7. Bottazzi Schenone, M., Cavicchia, C., Vichi, M., Zaccaria, G. (2025) \
-  **Ultrametric Factor Analysis for Building Hierarchies of Reliable and Unidimensional Latent Concepts** \
-  _Psychometrika_, 90(2), 779-798. \
+   **Ultrametric Factor Analysis for Building Hierarchies of Reliable and Unidimensional Latent Concepts** \
+   _Psychometrika_, 90(2), 779-798. \
 <a href="https://doi.org/10.1017/psy.2025.6" target="_blank">Link</a> - <a href="https://github.com/giorgiazaccaria/UFA" target="_blank">Code</a>
 6. Greselin, F., Zaccaria, G. (2025) \
    **Studying Hierarchical Latent Structures in Heterogeneous Populations with Missing Information** \
-  _Journal of Classification_, 42, 284–310. \
+   _Journal of Classification_, 42, 284–310. \
 <a href="https://link.springer.com/article/10.1007/s00357-024-09492-0" target="_blank">Link</a> - <a href="https://github.com/giorgiazaccaria/MissUGMM" target="_blank">Code</a>
 5. Cavicchia, C., Vichi, M., Zaccaria, G. (2024) \
    **Parsimonious ultrametric Gaussian mixture models** \
    _Statistics and Computing_, 34, 108. \
     <a href="https://link.springer.com/article/10.1007/s11222-024-10405-9" target="_blank">Link</a> - <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="_blank">Code (R package)</a>
 4. Cavicchia, C., Sarnacchiaro, P., Vichi, M., Zaccaria, G. (2024) \
-  **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
+   **A model-based ultrametric composite indicator for studying waste management in Italian municipalities** \
    _Computational Statistics_, 39, 21-50.\
     <a href="https://link.springer.com/article/10.1007/s00180-023-01333-9" target="_blank">Link</a>
 3.  Cavicchia, C., Vichi, M., Zaccaria, G. (2023) \
-  **Hierarchical disjoint principal component analysis** \
-   _AStA Advances in Statistical Analysis_, 107(3), 537–574.\
+    **Hierarchical disjoint principal component analysis** \
+    _AStA Advances in Statistical Analysis_, 107(3), 537–574.\
     <a href="https://link.springer.com/article/10.1007/s10182-022-00458-4" target="_blank">Link</a>
 2.  Cavicchia, C., Vichi, M., Zaccaria, G. (2022) \
-   **Gaussian mixture model with an extended ultrametric covariance structure** \
-   _Advances in Data Analysis and Classification_, 16(2), 399-427. \
+    **Gaussian mixture model with an extended ultrametric covariance structure** \
+    _Advances in Data Analysis and Classification_, 16(2), 399-427. \
    <a href="https://link.springer.com/article/10.1007/s11634-021-00488-x" target="_blank">Link</a> - <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="_blank">Code (R package)</a>
 1.  Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
-   **The ultrametric correlation matrix for modelling hierarchical latent concepts** \
-   _Advances in Data Analysis and Classification_, 14(4), 837-853.\
+    **The ultrametric correlation matrix for modelling hierarchical latent concepts** \
+    _Advances in Data Analysis and Classification_, 14(4), 837-853.\
    <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a> - <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="_blank">Code (R package)</a>
    
 #### Peer-reviewed articles in edited volumes and Ph.D. thesis
