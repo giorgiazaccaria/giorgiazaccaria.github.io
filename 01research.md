@@ -14,9 +14,6 @@ Specifically, my research interests are:
 - model-based composite indicators.
 
 ### Ongoing projects
-- **Robust fuzzy clustering with cellwise outliers** \
-with Lorenzo Banzakour, Luis A. García Escudero, Francesca Greselin and Agustín Mayo-Íscar \
-_Under review_ (<a href="https://www.arxiv.org/abs/2508.03310" target="_blank">arXiv</a>)
 
 - **cellMMCD: Cellwise Matrix-Variate MCD** \
 with Marcus Mayrhofer, Francesca Greselin, and Peter Filzmoser \
