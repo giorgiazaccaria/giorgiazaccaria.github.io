@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 #### Peer-reviewed journal articles (Fascia A)
-10. Zaccaria, G., Banzakour, L., García Escudero, L. A., Greselin, F., Mayo-Íscar, A. (2026+) \
+10. Zaccaria, G., Banzakour, L., García Escudero, L. A., Greselin, F., Mayo-Íscar, A. (2026) \
     **Robust fuzzy clustering with cellwise outliers** \
    _International Journal of Approximate Reasoning_, Volume 195, 109698, doi: 10.1016/j.ijar.2026.109698.\
 <a href="https://www.sciencedirect.com/science/article/pii/S0888613X26000745?via%3Dihub#abs0001" target="_blank">Link</a> - <a href="https://github.com/giorgiazaccaria/cellFCLUST" target="_blank">Code</a>
