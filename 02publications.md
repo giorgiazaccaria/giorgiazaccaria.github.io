@@ -47,8 +47,8 @@ permalink: /publications/
    <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a> - <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="_blank">Code (R package)</a>
    
 #### Peer-reviewed articles in edited volumes and discussion papers
-4. Greselin, F., Zaccaria, G. (2026) Considerations for robust ICA: a discussion of the PICARD framework. \textit{Advances in Data Analysis and Classification} doi: 10.1007/s11634-026-00702-8.\
-<a href="[https://doi.org/10.1007/s11634-026-00702-8" target="_blank">Link</a>
+4. Greselin, F., Zaccaria, G. (2026) Considerations for robust ICA: a discussion of the PICARD framework.  _Advances in Data Analysis and Classification_, doi: 10.1007/s11634-026-00702-8.\
+<a href="https://doi.org/10.1007/s11634-026-00702-8" target="_blank">Link</a>
 
 3. Mingione, M., Vichi, M., Zaccaria, G. (2022) \
    **Complex Dimensionality Reduction: Ultrametric Models for Mixed-Type Data.** \
