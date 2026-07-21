@@ -23,7 +23,7 @@ Supervisor: Prof. Marco Perone Pacifico.
 
 ### Grants/Awards
 **July 2026** \
-IFCS2026 Chikio Hayashi Award for young researchers in the field of classification and clustering, International Federation of Classification Societies. 
+IFCS 2026 Chikio Hayashi Award for young researchers in the field of classification and clustering, International Federation of Classification Societies. 
 
 **November 2023** \
 Grant for _Erasmus+ for Professors and Research Fellows_, a.y. 2023/2024, University of Milano Bicocca, Italy. 
