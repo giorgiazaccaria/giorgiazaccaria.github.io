@@ -11,7 +11,7 @@ permalink: /publications/
 <a href="https://www.sciencedirect.com/science/article/pii/S0888613X26000745?via%3Dihub#abs0001" target="_blank">Link</a> - <a href="https://github.com/giorgiazaccaria/cellFCLUST" target="_blank">Code</a>
 9. Zaccaria, G., Di Nuzzo, C. (2026) \
   **Social sustainability in Italy: a model-based hierarchical composite indicator** \
- _Annals of Operations Research_, 363, 9–34. \
+ _Annals of Operations Research_, 363(1), 9–34. \
 <a href="https://link.springer.com/article/10.1007/s10479-025-06731-4" target="_blank">Link</a> 
 8. Zaccaria, G., García Escudero, L.A., Greselin, F., Mayo-Íscar, A. (2025) \
    **Cellwise outlier detection in heterogeneous populations** \
