@@ -9,7 +9,7 @@ permalink: /publications/
     **Robust fuzzy clustering with cellwise outliers** \
    _International Journal of Approximate Reasoning_, Volume 195, 109698, doi: 10.1016/j.ijar.2026.109698.\
 <a href="https://www.sciencedirect.com/science/article/pii/S0888613X26000745?via%3Dihub#abs0001" target="_blank">Link</a> - <a href="https://github.com/giorgiazaccaria/cellFCLUST" target="_blank">Code</a>
-9. Zaccaria, G., Di Nuzzo, C. (2025) \
+9. Zaccaria, G., Di Nuzzo, C. (2026) \
   **Social sustainability in Italy: a model-based hierarchical composite indicator** \
  _Annals of Operations Research_, 363, 9–34. \
 <a href="https://link.springer.com/article/10.1007/s10479-025-06731-4" target="_blank">Link</a> 
