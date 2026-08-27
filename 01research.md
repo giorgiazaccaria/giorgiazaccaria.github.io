@@ -31,7 +31,7 @@ with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
 ### Future projects
-- **Ultrametric Mixtures of Multivariate Contaminated Normal Distributions** \
+- **Ultrametric Mixtures of Multivariate Contaminated Normal Distributions** 
 
 
 
