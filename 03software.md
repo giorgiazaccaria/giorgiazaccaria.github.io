@@ -3,6 +3,11 @@ layout: page
 title: Software
 permalink: /software/
 ---
+- **cellFCLUST** \
+_Author and Maintainer_ \
+Fuzzy clustering with cellwise outlier detection and missing data via constrained maximization. \
+<a href="https://github.com/giorgiazaccaria/cellFCLUST" target="_blank">Github</a>.
+
 - **cellGMM** \
 _Author and Maintainer_ \
 Gaussian Mixture Model with cellwise outlier detection via the EM algorithm. \
