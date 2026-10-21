@@ -10,13 +10,13 @@ You can find my full CV <a href="https://github.com/giorgiazaccaria/giorgiazacca
 
 ### Education 
 **Nov 2018 - Feb 2022** \
-_Ph.D. in Methodological Statistics_, University of Rome La Sapienza, Italy. \
+_Ph.D. in Methodological Statistics_, University of Rome La Sapienza, Italy.
 
 **Sep 2016 - Oct 2018** \
-_M.Sc. in Statistical and Decision Sciences- European Master in Official Statistics (EMOS)_, University of Rome "La Sapienza", Italy. \
+_M.Sc. in Statistical and Decision Sciences- European Master in Official Statistics (EMOS)_, University of Rome "La Sapienza", Italy.
 
 **Sep 2013 - Oct 2016** \
-_B.Sc. in Statistics, Economics and Society_, University of Rome "La Sapienza", Italy. \
+_B.Sc. in Statistics, Economics and Society_, University of Rome "La Sapienza", Italy. 
 
 ### Grants/Awards
 **September 2026** \
