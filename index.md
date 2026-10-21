@@ -19,6 +19,10 @@
 
   
 ## News
+**September 2026** 
+
+- I am grateful to receive the Young Talents Award from University of Milano-Bicocca, with the sponsorship of Accademia dei Lincei. 
+
 **July 2026** 
 
 - I am honoured to receive the 2026 Chikio Hayashi Award from International Federation of Classification Societies (IFCS), recognizing young researchers working in the field of classification and clustering.
