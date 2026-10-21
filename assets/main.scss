@@ -106,6 +106,7 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 details {
   margin: 0 0 1.5em;
   summary {
+    display: block; 
     list-style: none;                  // toglie la freccia standard
     cursor: pointer;
     font-family: $heading-font-family;
