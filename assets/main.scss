@@ -1,0 +1,102 @@
+---
+# Stile del sito: sovrascrive il tema Minima senza sostituirlo.
+---
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap");
+
+// ---- Variabili di Minima (vanno definite PRIMA dell'import) ----
+$base-font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$heading-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+$base-font-size:   17px;
+$base-line-height: 1.6;
+
+$text-color:       #1f2328;
+$background-color: #ffffff;
+$brand-color:      #1d5a85;   // blu profondo per i link
+
+$grey-color:       #6b7280;
+$content-width:    860px;
+
+@import "minima";
+
+// ---- Tipografia ----
+h1, h2, h3, h4, h5, h6,
+.post-title, .page-heading, .site-title {
+  font-family: $heading-font-family;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: #16202a;
+}
+
+.post-title { font-size: 2.1rem; margin-bottom: 0.2em; }
+.post-content h3, .post-content h4 {
+  margin-top: 1.8em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid #e6e8eb;
+}
+.post-content h2 { margin-top: 1.6em; }
+
+strong { font-weight: 600; }
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 2px; }
+
+// ---- Header ----
+.site-header {
+  border-top: 4px solid $brand-color;
+  border-bottom: 1px solid #e6e8eb;
+  background: #fff;
+}
+.site-title, .site-title:visited {
+  font-weight: 600;
+  color: #16202a;
+}
+.site-nav .page-link {
+  color: #3b4450;
+  font-size: 0.95rem;
+  &:hover { color: $brand-color; text-decoration: none; }
+}
+
+// ---- Footer ----
+.site-footer { border-top: 1px solid #e6e8eb; }
+
+// ---- Foto di copertina delle pagine ----
+.page-banner {
+  margin: 0 0 $spacing-unit 0;
+  img {
+    display: block;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  figcaption {
+    margin-top: 6px;
+    font-size: 0.85rem;
+    color: $grey-color;
+    text-align: right;
+    font-style: italic;
+  }
+  @include media-query($on-palm) {
+    img { height: 190px; }
+  }
+}
+
+// ---- Liste (pubblicazioni, progetti, software) ----
+.post-content li { margin-bottom: 0.9em; }
+.post-content ol li::marker { color: $grey-color; }
+
+// ---- Home ----
+.home img { border-radius: 8px; max-width: 100%; height: auto; }
+.home h1 a img, .home h1 a:hover img { border-radius: 0; transition: transform .15s ease; }
+.home h1 a:hover img { transform: translateY(-2px); }
+
+// ---- Box informativo (pagina tesi) ----
+.note {
+  background: #eef4f9;
+  border-left: 4px solid $brand-color;
+  padding: 0.9em 1.1em;
+  border-radius: 4px;
+  margin: 1.2em 0;
+  p:last-child { margin-bottom: 0; }
+}
