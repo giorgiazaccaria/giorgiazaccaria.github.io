@@ -95,3 +95,16 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
   margin: 1.2em 0;
   p:last-child { margin-bottom: 0; }
 }
+
+// ---- Menu a tendina (pubblicazioni) ----
+details {
+  margin: 0.5em 0 1.5em;
+  summary {
+    cursor: pointer;
+    color: $brand-color;
+    font-weight: 600;
+    margin-bottom: 0.8em;
+    &:hover { text-decoration: underline; }
+  }
+  li { margin-bottom: 0.5em; }
+}
