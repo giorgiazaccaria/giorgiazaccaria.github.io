@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My work is mainly focused on mixture models, robust statistics and latent variables models, with applications in different fields such as socio-economics, environmental sciences, and psychometrics. \
+My work mainly focuses on mixture models, robust statistics, and latent variable models, with applications in different fields such as socio-economics, environmental sciences, and psychometrics. \
 Specifically, my research interests are:
 - model-based clustering;
 - robust statistics;
