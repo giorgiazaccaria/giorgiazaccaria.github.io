@@ -11,17 +11,17 @@ You can find my full CV <a href="https://github.com/giorgiazaccaria/giorgiazacca
 ### Education 
 **Nov 2018 - Feb 2022** \
 _Ph.D. in Methodological Statistics_, University of Rome La Sapienza, Italy. \
-Supervisor: Prof. Maurizio Vichi.
 
 **Sep 2016 - Oct 2018** \
 _M.Sc. in Statistical and Decision Sciences- European Master in Official Statistics (EMOS)_, University of Rome "La Sapienza", Italy. \
-Supervisor: Prof. Maurizio Vichi.
 
 **Sep 2013 - Oct 2016** \
 _B.Sc. in Statistics, Economics and Society_, University of Rome "La Sapienza", Italy. \
-Supervisor: Prof. Marco Perone Pacifico.
 
 ### Grants/Awards
+**September 2026** \
+Young Talents Award 2026, University of Milano-Bicocca, sponsorship Accademia dei Lincei.
+
 **July 2026** \
 IFCS 2026 Chikio Hayashi Award for young researchers in the field of classification and clustering, International Federation of Classification Societies. 
 
