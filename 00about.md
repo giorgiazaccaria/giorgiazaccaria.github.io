@@ -18,7 +18,7 @@ _M.Sc. in Statistical and Decision Sciences- European Master in Official Statist
 **Sep 2013 - Oct 2016** \
 _B.Sc. in Statistics, Economics and Society_, University of Rome "La Sapienza", Italy. 
 
-### Grants/Awards
+### Grants & Awards
 **September 2026** \
 Young Talents Award 2026, University of Milano-Bicocca, sponsorship Accademia dei Lincei.
 
