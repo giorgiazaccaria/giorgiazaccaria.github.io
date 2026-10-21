@@ -45,6 +45,7 @@ permalink: /publications/
     **The ultrametric correlation matrix for modelling hierarchical latent concepts** \
     _Advances in Data Analysis and Classification_, 14(4), 837-853.\
    <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a> - <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="_blank">Code (R package)</a>
+{: reversed="reversed"}
 
 <details markdown="1">
 <summary><h4>Peer-reviewed articles in edited volumes and discussion papers<h4></summary>
