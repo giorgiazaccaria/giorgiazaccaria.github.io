@@ -8,7 +8,7 @@ permalink: /publications/
 10. Zaccaria, G., Banzakour, L., García Escudero, L. A., Greselin, F., Mayo-Íscar, A. (2026) \
     **Robust fuzzy clustering with cellwise outliers** \
    _International Journal of Approximate Reasoning_, Volume 195, 109698, doi: 10.1016/j.ijar.2026.109698.\
-<a href="https://www.sciencedirect.com/science/article/pii/S0888613X26000745?via%3Dihub#abs0001" target="_blank">Link</a>  - <a href="https://arxiv.org/abs/2508.03310" target="_blank">arXiV</a> - <a href="https://github.com/giorgiazaccaria/cellFCLUST" target="_blank">Code</a> 
+<a href="https://www.sciencedirect.com/science/article/pii/S0888613X26000745?via%3Dihub#abs0001" target="_blank">Link</a>  - <a href="https://arxiv.org/abs/2508.03310" target="_blank">arXiv</a> - <a href="https://github.com/giorgiazaccaria/cellFCLUST" target="_blank">Code</a> 
 9. Zaccaria, G., Di Nuzzo, C. (2026) \
   **Social sustainability in Italy: a model-based hierarchical composite indicator** \
  _Annals of Operations Research_, 363(1), 9–34. \
@@ -16,7 +16,7 @@ permalink: /publications/
 8. Zaccaria, G., García Escudero, L.A., Greselin, F., Mayo-Íscar, A. (2025) \
    **Cellwise outlier detection in heterogeneous populations** \
    _Technometrics_, 67(4), 643-654. \
-<a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="_blank">Link</a> - <a href="https://arxiv.org/abs/2409.07881" target="_blank">arXiV</a> - <a href="https://github.com/giorgiazaccaria/cellGMM" target="_blank">Code</a>
+<a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2497822" target="_blank">Link</a> - <a href="https://arxiv.org/abs/2409.07881" target="_blank">arXiv</a> - <a href="https://github.com/giorgiazaccaria/cellGMM" target="_blank">Code</a>
 7. Bottazzi Schenone, M., Cavicchia, C., Vichi, M., Zaccaria, G. (2025) \
    **Ultrametric Factor Analysis for Building Hierarchies of Reliable and Unidimensional Latent Concepts** \
    _Psychometrika_, 90(2), 779-798. \
