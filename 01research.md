@@ -15,15 +15,15 @@ Specifically, my research interests are:
 
 ### Ongoing projects
 
-- **cellMMCD: Cellwise Matrix-Variate MCD** \
-with Marcus Mayrhofer, Francesca Greselin, and Peter Filzmoser \
+- **Mixtures of Disjoint Factor Analyzers** \
 _Manuscript in preparation_
 
 - **Parsimonious Ultrametric Mixture Models for Matrix-Variate Data** \
 with Alexa Sochaniwsky and Paul McNicholas \
 _Manuscript in preparation_
 
-- **Mixtures of Disjoint Factor Analyzers** \
+- **cellMMCD: Cellwise Matrix-Variate MCD** \
+with Marcus Mayrhofer, Francesca Greselin, and Peter Filzmoser \
 _Manuscript in preparation_
 
 - **Fuzzy and Robust Spectral Data Embedding** \
