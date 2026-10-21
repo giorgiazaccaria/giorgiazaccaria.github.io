@@ -64,7 +64,8 @@ permalink: /publications/
   **Exploring hierarchical concepts: theoretical and application comparisons.** \
   T. Imaizumi, A. Nakayama, S. Yokoyama, S. (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_,   vol. 5 (pp.   315-328). Springer, Singapore. \
  <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a> 
- 
+
+<details markdown="1">
 <summary><h4>Peer-reviewed conference articles</h4></summary>
 
 13. Di Nuzzo, C., Zaccaria, G. (2025). **Fuzzy Spectral Clustering.** E. di Bella, V. Gioia, C. Lagazio, S. Zaccarin (Eds.). _Statistics for Innovation III SIS 2025, Short Papers, Contributed Sessions 2_ (pp. 165-170). Pearson. ISBN: 978-3-031-95994-3.
