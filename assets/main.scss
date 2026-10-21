@@ -36,19 +36,6 @@ strong { font-weight: 600; }
 a { text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 2px; }
 
-// ---- Testo giustificato ----
-.post-content p,
-.post-content li {
-  text-align: justify;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-}
-// Su telefono le righe sono corte: meglio allineato a sinistra
-@include media-query($on-palm) {
-  .post-content p,
-  .post-content li { text-align: left; }
-}
-
 // ---- Header ----
 .site-header {
   border-top: 4px solid $brand-color;
@@ -128,4 +115,17 @@ details, .post-content details {
     &:hover h4 { color: $brand-color; }
   }
   li { margin-bottom: 0.5em; }
+}
+
+// ---- Testo giustificato ----
+.post-content p,
+.post-content li {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+// Su telefono le righe sono corte: meglio allineato a sinistra
+@include media-query($on-palm) {
+  .post-content p,
+  .post-content li { text-align: left; }
 }
