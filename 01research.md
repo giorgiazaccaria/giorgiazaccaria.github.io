@@ -30,7 +30,7 @@ _Manuscript in preparation_
 with Cinzia Di Nuzzo \
 _Manuscript in preparation_
 
-- **Ultrametric Mixtures of Multivariate Contaminated Normal Distributions** \
+- **Mixtures of Ultrametric Contaminated Normal Distributions** \
 with Matteo Mascetti \
 _Manuscript in preparation_
 
