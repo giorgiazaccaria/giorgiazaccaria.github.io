@@ -20,10 +20,10 @@ _B.Sc. in Statistics, Economics and Society_, University of Rome "La Sapienza", 
 
 ### Grants & Awards
 **September 2026** \
-Young Talents Award 2026, University of Milano-Bicocca, sponsorship Accademia dei Lincei.
+_Young Talents Award 2026_, University of Milano-Bicocca, with the sponsorship of Accademia dei Lincei.
 
 **July 2026** \
-IFCS 2026 Chikio Hayashi Award for young researchers in the field of classification and clustering, International Federation of Classification Societies. 
+_IFCS 2026 Chikio Hayashi Award_ for young researchers in the field of classification and clustering, International Federation of Classification Societies. 
 
 **November 2023** \
 Grant for _Erasmus+ for Professors and Research Fellows_, a.y. 2023/2024, University of Milano-Bicocca, Italy. 
