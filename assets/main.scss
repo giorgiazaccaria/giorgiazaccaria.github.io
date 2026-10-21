@@ -97,14 +97,21 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 }
 
 // ---- Menu a tendina (pubblicazioni) ----
+// Il titolo cliccabile ha lo stesso aspetto dei titoli di sezione
 details {
-  margin: 0.5em 0 1.5em;
+  margin: 1.8em 0 1.5em;
   summary {
     cursor: pointer;
-    color: $brand-color;
+    font-family: $heading-font-family;
     font-weight: 600;
-    margin-bottom: 0.8em;
-    &:hover { text-decoration: underline; }
+    font-size: 1.25rem;
+    color: #16202a;
+    letter-spacing: -0.01em;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid #e6e8eb;
+    margin-bottom: 1em;
+    &::marker { color: $brand-color; font-size: 0.9em; }
+    &:hover { color: $brand-color; }
   }
   li { margin-bottom: 0.5em; }
 }
