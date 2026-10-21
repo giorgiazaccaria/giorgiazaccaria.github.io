@@ -48,7 +48,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 <details markdown="1">
-<summary><h4>Peer-reviewed articles in edited volumes and discussion papers<h4></summary>
+<summary><h4>Peer-reviewed articles in edited volumes and discussion papers</h4></summary>
 
 4. Greselin, F., Zaccaria, G. (2026) **Considerations for robust ICA: a discussion of the PICARD framework** _Advances in Data Analysis and Classification_, doi: 10.1007/s11634-026-00702-8 (<a href="https://doi.org/10.1007/s11634-026-00702-8" target="_blank">Link</a>).
 3. Mingione, M., Vichi, M., Zaccaria, G. (2022) **Complex Dimensionality Reduction: Ultrametric Models for Mixed-Type Data.** In: L.A. Garcia-Escudero, A. Gordaliza, A. Mayo, M. Asunción Lubiano Gomez, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz (Eds.) _Building Bridges between Soft and Statistical Methodologies for Data Science. SMPS 2022. Advances in Intelligent Systems and Computing_, vol 1433. Springer, Cham. doi: 10.1007/978-3-031-15509-3_37 (<a href="https://link.springer.com/chapter/10.1007/978-3-031-15509-3_37" target="_blank">Link</a>).
