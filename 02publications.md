@@ -50,18 +50,9 @@ permalink: /publications/
 <summary><h4>Peer-reviewed articles in edited volumes and discussion papers<h4></summary>
 
 4. Greselin, F., Zaccaria, G. (2026) **Considerations for robust ICA: a discussion of the PICARD framework** _Advances in Data Analysis and Classification_, doi: 10.1007/s11634-026-00702-8 (<a href="https://doi.org/10.1007/s11634-026-00702-8" target="_blank">Link</a>).
-3. Mingione, M., Vichi, M., Zaccaria, G. (2022) \
-   **Complex Dimensionality Reduction: Ultrametric Models for Mixed-Type Data.** \
-   In: L.A. Garcia-Escudero, A. Gordaliza, A. Mayo, M. Asunción Lubiano Gomez, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz (Eds.) _Building Bridges between Soft and Statistical Methodologies for Data Science. SMPS 2022. Advances in Intelligent Systems and Computing_, vol 1433. Springer, Cham. doi: 10.1007/978-3-031-15509-3_37 \
-   <a href="https://link.springer.com/chapter/10.1007/978-3-031-15509-3_37" target="_blank">Link</a>
-2. Zaccaria, G. (2022) \
-   **Ultrametric models for hierarchical dimensionality reduction.** \
-   _Ph.D. Thesis_. \
-   <a href="https://iris.uniroma1.it/handle/11573/1628179?mode=full.4076" target="_blank">Link</a>
-1. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
-  **Exploring hierarchical concepts: theoretical and application comparisons.** \
-  T. Imaizumi, A. Nakayama, S. Yokoyama (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_, vol. 5 (pp. 315-328). Springer, Singapore. \
- <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a>
+3. Mingione, M., Vichi, M., Zaccaria, G. (2022) **Complex Dimensionality Reduction: Ultrametric Models for Mixed-Type Data.** In: L.A. Garcia-Escudero, A. Gordaliza, A. Mayo, M. Asunción Lubiano Gomez, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz (Eds.) _Building Bridges between Soft and Statistical Methodologies for Data Science. SMPS 2022. Advances in Intelligent Systems and Computing_, vol 1433. Springer, Cham. doi: 10.1007/978-3-031-15509-3_37 (<a href="https://link.springer.com/chapter/10.1007/978-3-031-15509-3_37" target="_blank">Link</a>).
+2. Zaccaria, G. (2022) **Ultrametric models for hierarchical dimensionality reduction.** _Ph.D. Thesis_ (<a href="https://iris.uniroma1.it/handle/11573/1628179?mode=full.4076" target="_blank">Link</a>).
+1. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) **Exploring hierarchical concepts: theoretical and application comparisons.** T. Imaizumi, A. Nakayama, S. Yokoyama (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_, vol. 5 (pp. 315-328). Springer, Singapore. (<a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a>).
 {: reversed="reversed"}
 
 </details>
