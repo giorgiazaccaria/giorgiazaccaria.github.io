@@ -122,9 +122,11 @@ details, .post-content details {
   li { margin-bottom: 0.5em; }
 }
 
-// ---- Testo giustificato ----
+// ---- Testo giustificato (tutte le pagine, home compresa) ----
 .post-content p,
-.post-content li {
+.post-content li,
+.home p:not([align]),
+.home li {
   text-align: justify;
   hyphens: auto;
   -webkit-hyphens: auto;
@@ -132,5 +134,7 @@ details, .post-content details {
 // Su telefono le righe sono corte: meglio allineato a sinistra
 @include media-query($on-palm) {
   .post-content p,
-  .post-content li { text-align: left; }
+  .post-content li,
+  .home p:not([align]),
+  .home li { text-align: left; }
 }
