@@ -9,7 +9,7 @@ I am a **Tenure-Track Assistant Professor** at University of Milano-Bicocca, Mil
 You can find my full CV <a href="https://github.com/giorgiazaccaria/giorgiazaccaria.github.io/blob/main/Zaccaria_CV_ENG_UpdateJuly2026.pdf?raw=true" target="_blank"><ins>here</ins></a>.
 
 ### Education 
-**Nov 2018 - Feb 2022**: _Ph.D. in Methodological Statistics_, University of Rome La Sapienza, Italy.
+**Nov 2018 - Feb 2022**: _Ph.D. in Methodological Statistics_, University of Rome "La Sapienza", Italy.
 
 **Sep 2016 - Oct 2018**: _M.Sc. in Statistical and Decision Sciences- European Master in Official Statistics (EMOS)_, University of Rome "La Sapienza", Italy.
 
