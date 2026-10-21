@@ -65,7 +65,9 @@ permalink: /publications/
 1. Cavicchia, C., Vichi, M., Zaccaria, G. (2020) \
   **Exploring hierarchical concepts: theoretical and application comparisons.** \
   T. Imaizumi, A. Nakayama, S. Yokoyama, S. (Eds.), _Advanced Studies in Behaviormetrics and Data Science. Behaviormetrics: Quantitative Approaches to Human Behavior_,   vol. 5 (pp.   315-328). Springer, Singapore. \
- <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a> 
+ <a href="https://link.springer.com/chapter/10.1007/978-981-15-2700-5_19" target="_blank">Link</a>
+
+</details>
 
 <details markdown="1">
 <summary><h4>Peer-reviewed conference articles</h4></summary>
