@@ -27,7 +27,7 @@
 
 - I am honoured to receive the 2026 Chikio Hayashi Award from International Federation of Classification Societies (IFCS), recognizing young researchers working in the field of classification and clustering.
 
-- I joined the Editorial Board of the _Journal of Classification_. Many thanks to the Editor-in-Chief, Prof. Paul McNicholas, for inviting me to serve on the board.
+- I joined the Editorial Board of the _Journal of Classification_ as Associate Editor. Many thanks to the Editor-in-Chief, Prof. Paul McNicholas, for inviting me to serve on the board.
 
 
 
