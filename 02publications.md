@@ -47,7 +47,7 @@ permalink: /publications/
    <a href="https://link.springer.com/article/10.1007/s11634-020-00400-z" target="_blank">Link</a> - <a href="https://cran.r-project.org/web/packages/PUGMM/index.html" target="_blank">Code (R package)</a>
 
 <details markdown="1">
-<summary>Peer-reviewed articles in edited volumes and discussion papers</summary>
+<summary><h4>Peer-reviewed articles in edited volumes and discussion papers<h4></summary>
 
 4. Greselin, F., Zaccaria, G. (2026) \
     **Considerations for robust ICA: a discussion of the PICARD framework** \
