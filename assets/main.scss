@@ -102,23 +102,30 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 }
 
 // ---- Menu a tendina (pubblicazioni) ----
-// Il titolo cliccabile è un vero titolo di sezione (h4) dentro <summary>
-details, .post-content details {
+// Il titolo cliccabile ha lo stesso aspetto dei titoli di sezione
+details {
   margin: 0 0 1.5em;
   summary {
+    list-style: none;                  // toglie la freccia standard
     cursor: pointer;
-    border-bottom: 1px solid #e6e8eb;
+    font-family: $heading-font-family;
+    font-weight: 600;
+    font-size: $base-font-size * 1.25; // stessa grandezza degli altri titoli
+    letter-spacing: -0.01em;
+    color: #16202a;
     margin: 1.8em 0 1em;
     padding-bottom: 0.25em;
-    &::marker { color: $brand-color; font-size: 1.1em; }
-    h4 {
-      display: inline;
-      border-bottom: none;
-      margin: 0;
-      padding: 0;
+    border-bottom: 1px solid #e6e8eb;
+    &::-webkit-details-marker { display: none; }
+    &::before {                        // freccia sulla stessa riga del titolo
+      content: "\25B8";
+      display: inline-block;
+      width: 1em;
+      color: $brand-color;
     }
-    &:hover h4 { color: $brand-color; }
+    &:hover { color: $brand-color; }
   }
+  &[open] summary::before { content: "\25BE"; }
   li { margin-bottom: 0.5em; }
 }
 
